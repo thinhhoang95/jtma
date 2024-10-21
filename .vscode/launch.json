@@ -1,0 +1,12 @@
+{
+    "configurations": [
+    {
+        "type": "java",
+        "name": "PMS SAREX Only 150%",
+        "request": "launch",
+        "mainClass": "RECUIT.Recuit",
+        "preLaunchTask": "compile-all",
+        "args": ["PMS_eliminate0_150%_reduced_filteredSAREX", "ZGSZ_PMS", "0,1,2,3"]
+    }
+    ]
+}

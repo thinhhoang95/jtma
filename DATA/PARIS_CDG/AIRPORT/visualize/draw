@@ -1,0 +1,10 @@
+set xrange [60:145]
+set yrange [90:150]
+set zrange [0:170] 
+set label "4000" at 116.811,123.12,40
+set label "5000" at 117.826,125.286,50
+set label "MOPAR" at 69.056,138.408,120
+set label "LORNI" at 135.267,148.324,100
+set label "OKIPA" at 141.9,100.008,100
+set label "BANOX" at 60.002,95.1,160
+splot 'RWY_26L' using 1:2:3 w lp pointsize 1 pointtype 7 linecolor 10 t "RWY 26L", 'RWY_27R' using 1:2:3 w lp pointsize 1 pointtype 8 linecolor 6 t "RWY 27R" 

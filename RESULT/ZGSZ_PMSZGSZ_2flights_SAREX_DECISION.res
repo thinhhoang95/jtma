@@ -1,0 +1,2 @@
+DecisionNumber= 0 NbSlotsRTA= 0 RouteNumber= 0 NbPourcentSpeed= 0+FirstPourcentInMergeLeg=0.0 SecondPourcentInMergeLeg= 0.0 LeftRight= false PourcentInShortCut= 0.0 Perfo Node = 8.97754087291067 Perfo Link = 7.970054497214225
+DecisionNumber= 1 NbSlotsRTA= 0 RouteNumber= 0 NbPourcentSpeed= 0+FirstPourcentInMergeLeg=0.5 SecondPourcentInMergeLeg= 0.0 LeftRight= false PourcentInShortCut= 0.0 Perfo Node = 8.97754087291067 Perfo Link = 11.955081745821335

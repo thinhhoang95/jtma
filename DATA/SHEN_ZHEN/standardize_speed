@@ -1,0 +1,17 @@
+def modify_fourth_column(file_path):
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
+
+    modified_lines = []
+    for line in lines:
+        parts = line.split()
+        if len(parts) >= 4:
+            parts[3] = '280'
+        modified_lines.append(' '.join(parts) + '\n')
+
+    with open(file_path, 'w') as file:
+        file.writelines(modified_lines)
+
+# Usage
+file_path = 'DATA/SHEN_ZHEN/ZGSZ_PMS_eliminate0_150%_reduced_SameSpeed.flights'
+modify_fourth_column(file_path)

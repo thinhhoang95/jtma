@@ -1,0 +1,8 @@
+package OPERATIONS.AIRSPACE;
+
+public class PerfoConflict {
+    public boolean inConflict;
+    public int defautSeparation;
+   
+
+}

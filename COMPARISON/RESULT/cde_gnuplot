@@ -1,0 +1,13 @@
+set term postscript 'eps'
+
+
+set output 'rentry_fit.eps'
+set xlabel "Generation number"  
+set ylabel "Fitness" 
+
+plot 'ATATURK_STD28July2018_FEATURES.res' using 3 title 'std' with lines,\
+     'ATATURK_PMS28July2018_FEATURES.res' using 3 title 'pms' with lines,\
+     'ATATURK_STD28July2018_FEATURES.res' using 4 title 'std' with lines,\
+     'ATATURK_PMS28July2018_FEATURES.res' using 4 title 'pms' with lines,\
+     'ATATURK_STD28July2018_100_FEATURES.res' using 3 title 'std' with lines,\
+     'ATATURK_PMS28July2018_100_FEATURES.res' using 3 title 'pms' with lines,
