@@ -90,6 +90,7 @@ public class FlightSet {
 
 	} catch (IOException ioe) {
 	    System.err.println("Flight File reading error");
+		throw new RuntimeException(ioe);
 	}
     }
 

@@ -86,8 +86,10 @@ def get_filename_without_extension(filepath):
 
 if __name__ == "__main__":
 
-    link_events_file_name = 'PMSeliminate0150reducedfilteredSAREX_link_travel_time.csv'
-    node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_PMS.nodes'
+    # link_events_file_name = 'PMSeliminate0150reducedfilteredSAREX_link_travel_time.csv'
+    link_events_file_name = 'STDeliminate0150reducedfilteredSAREX_link_travel_time.csv'
+    # node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_PMS.nodes'
+    node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_STD.nodes'
     file_name_without_extension = get_filename_without_extension(link_events_file_name)
     animation_file_name = file_name_without_extension + '.mp4'
 
@@ -203,8 +205,11 @@ if __name__ == "__main__":
                 distance = np.sqrt((x2-x1)**2 + (y2-y1)**2)
                 if distance < 3:
                     n_conflicts += 1
+
+        # Total aircraft    
+        n_aircraft = len(positions)
         
-        ax.set_title(f'Aircraft Positions at Time: {frame_time:.0f} | Conflicts: {n_conflicts}')
+        ax.set_title(f'Time: {frame_time:.0f} | Conflicts: {n_conflicts} | Total Aircraft: {n_aircraft}')
         return scat,
 
     # Create the animation

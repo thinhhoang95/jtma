@@ -7,6 +7,14 @@
         "mainClass": "RECUIT.Recuit",
         "preLaunchTask": "compile-all",
         "args": ["PMS_eliminate0_150%_reduced_filteredSAREX", "ZGSZ_PMS", "0,1,2,3"]
+    },
+    {
+        "type": "java",
+        "name": "STD SAREX Only 150%",
+        "request": "launch",
+        "mainClass": "RECUIT.Recuit",
+        "preLaunchTask": "compile-all",
+        "args": ["STD_eliminate0_150%_reduced_filteredSAREX", "ZGSZ_STD", ""]
     }
     ]
 }

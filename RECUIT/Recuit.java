@@ -11,7 +11,7 @@ public class Recuit {
     /*******************************************************/
     /* Parametres du recuit */
     private static final int nbTransitions = 1000;
-    private static final double alpha = 0.995;
+    private static final double alpha = 0.999;
     //private static final int nbTransitions = 500;
     //private static final double alpha = 0.99;
     private static final boolean minimisation = true;
@@ -103,7 +103,7 @@ public class Recuit {
 			tauxAccept = (double) acceptCount / (double) nbTransitions;
 			System.out.println("T= " + T + " tauxAccept= " + tauxAccept);
 			T = T * 1.1;
-		} while (tauxAccept < 0.8);
+		} while (tauxAccept < 0.9999);
 		System.out.println("T= " + T + " tauxAccept= " + tauxAccept);
 		return T;
 	}
@@ -145,7 +145,7 @@ public class Recuit {
 		}
 	    }
 	     T = T * alpha;
-	} while ((T > 0.5 * Tinit)&&(!flag));
+	} while ((T > 0.001 * Tinit)&&(!flag));
 	x.calculMaxCritere();
 	System.out.println("T= " + T + " Worse Decision Objective " + x.maxCout);
 	System.out.println(" "+x.featuresEtat.afficherFeaturesEtat());
