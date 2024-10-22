@@ -64,10 +64,36 @@ def get_xy_for_pms(time_on_pms_ring, total_time, node_coord_dict, node_ori, node
         y = yPMS - percentage * (yPMS - y2)
     return x, y
 
+def get_filename_without_extension(filepath):
+    """
+    Extracts the filename without extension from a given filepath.
+    
+    Parameters:
+    - filepath (str): The full path or just the filename.
+    
+    Returns:
+    - str: The filename without the extension.
+    
+    Example:
+    >>> get_filename_without_extension('path/to/my.complex.file.name.txt')
+    'my.complex.file.name'
+    """
+    # Split the filepath into directory path and filename
+    *_, filename = filepath.replace('\\', '/').split('/')
+    
+    # Split the filename by '.' and join all parts except the last one
+    return '.'.join(filename.split('.')[:-1])
+
 if __name__ == "__main__":
 
-    df = pd.read_csv('PMSeliminate0150reducedfilteredSAREX_link_travel_time.csv')
-    node_coord_dict = read_node_coordinates('DATA/SHEN_ZHEN/ZGSZ_PMS.nodes')
+    link_events_file_name = 'PMSeliminate0150reducedfilteredSAREX_link_travel_time.csv'
+    node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_PMS.nodes'
+    file_name_without_extension = get_filename_without_extension(link_events_file_name)
+    animation_file_name = file_name_without_extension + '.mp4'
+
+
+    df = pd.read_csv(link_events_file_name)
+    node_coord_dict = read_node_coordinates(node_coord_file_name)
         
     # Convert time columns to float if not already
     df['tOri'] = df['tOri'].astype(float)
@@ -88,7 +114,8 @@ if __name__ == "__main__":
 
     # Define time steps (e.g., every second)
     time_step = 10  # Adjust as needed
-    times = np.arange(min_time, max_time, time_step)
+    # times = np.arange(min_time, max_time, time_step)
+    times = np.arange(12 * 3600, 16 * 3600, time_step)
 
     # Initialize the plot
     fig, ax = plt.subplots(figsize=(10, 8))
@@ -108,7 +135,7 @@ if __name__ == "__main__":
     ax.set_title('Aircraft Positions Animation')
 
     # Initialize aircraft scatter plot
-    scat = ax.scatter([], [], c='red', s=50, label='Aircraft')
+    scat = ax.scatter([], [], facecolors='none', edgecolors='red', s=5**2 * 4, linewidths=1, marker='o', label='Aircraft')
 
     # Optional: Add legend
     ax.legend()
@@ -158,14 +185,26 @@ if __name__ == "__main__":
             else:
                 # Optionally, handle flights that have ended or not yet started
                 pass
+
+        
         
         if positions:
             xs, ys = zip(*positions)
             scat.set_offsets(np.c_[xs, ys])
         else:
-            scat.set_offsets([])
+            scat.set_offsets(np.empty((0, 2)))
         
-        ax.set_title(f'Aircraft Positions at Time: {frame_time}')
+        # Count conflicts
+        n_conflicts = 0
+        for i in range(len(positions)):
+            for j in range(i+1, len(positions)):
+                x1, y1 = positions[i]
+                x2, y2 = positions[j]
+                distance = np.sqrt((x2-x1)**2 + (y2-y1)**2)
+                if distance < 3:
+                    n_conflicts += 1
+        
+        ax.set_title(f'Aircraft Positions at Time: {frame_time:.0f} | Conflicts: {n_conflicts}')
         return scat,
 
     # Create the animation
@@ -174,6 +213,6 @@ if __name__ == "__main__":
     )
 
     # To save the animation, uncomment the following line
-    ani.save('aircraft_animation.mp4', writer='ffmpeg', fps=10)
+    ani.save(animation_file_name, writer='ffmpeg', fps=10)
 
     plt.show()
