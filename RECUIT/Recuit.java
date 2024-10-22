@@ -222,6 +222,23 @@ public class Recuit {
 	monRecuit.recuit();
 	System.out.println("\r<br>computational time : "+(System.currentTimeMillis()-a)/1000f+" s ");
 	monRecuit.postProcessing();
+
+	// Execute python script to compile link events
+	
+	try {
+		System.out.println("Executing link events script...");
+		ProcessBuilder processBuilder = new ProcessBuilder("python", "Inspect/compile_link_events.py", GlobalSettings.LINK_TRAVEL_TIME_LOG_FILE_PATH);
+		Process process = processBuilder.start();
+		int exitCode = process.waitFor();
+		if (exitCode == 0) {
+			System.out.println("Link events script execution completed successfully.");
+		} else {
+			System.err.println("Link events script execution failed with exit code: " + exitCode);
+		}
+	} catch (Exception e) {
+		System.err.println("Error executing Link events script: " + e.getMessage());
+		e.printStackTrace();
+	}
     }// end main
 }// End class
 

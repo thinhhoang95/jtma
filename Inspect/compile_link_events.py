@@ -75,8 +75,15 @@ def parse_log_file(file_path):
 
 # Example usage
 if __name__ == "__main__":
-    # Path to your log file
-    log_file_path = 'PMSeliminate0150reducedfilteredSAREX_link_travel_time.log'
+    import sys
+
+    # Check if a command-line argument is provided
+    if len(sys.argv) < 2:
+        print("Please provide the log file path as a command-line argument.")
+        sys.exit(1)
+
+    # Get the log file path from command-line arguments
+    log_file_path = sys.argv[1]
     
     # Parse the log file and get the DataFrame
     df = parse_log_file(log_file_path)
@@ -85,4 +92,6 @@ if __name__ == "__main__":
     df = df.drop_duplicates()
 
     # Save to CSV
-    df.to_csv('PMSeliminate0150reducedfilteredSAREX_link_travel_time.csv', index=False)
+    output_file = log_file_path.replace('.log', '.csv')
+    df.to_csv(output_file, index=False)
+    print(f"CSV file saved as: {output_file}")

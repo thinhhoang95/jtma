@@ -13,7 +13,7 @@ public class GlobalSettings {
     private static String FILENAME_PREFIX = ""; // e.g., "PMS_eliminate0_150%_reduced_filteredSAREX"
     private static String LOG_FILE_PATH = FILENAME_PREFIX + "_node_conflicts.log"; // conflicts
     private static String NODE_LOG_FILE_PATH = FILENAME_PREFIX + "_node_events.log"; // node events
-    private static String LINK_TRAVEL_TIME_LOG_FILE_PATH = FILENAME_PREFIX + "_link_travel_time.log"; // link travel time
+    public static String LINK_TRAVEL_TIME_LOG_FILE_PATH = FILENAME_PREFIX + "_link_travel_time.log"; // link travel time
     private static PrintWriter nodeLogWriter;
     private static PrintWriter conflictLogWriter;
     private static PrintWriter linkTravelTimeLogWriter;
