@@ -10,8 +10,9 @@ public class Recuit {
 
     /*******************************************************/
     /* Parametres du recuit */
-    private static final int nbTransitions = 1000;
-    private static final double alpha = 0.999;
+    private static int nbTransitions = 1000;
+    private static double alpha = 0.999;
+	private static double heatUntil = 0.9999;
     //private static final int nbTransitions = 500;
     //private static final double alpha = 0.99;
     private static final boolean minimisation = true;
@@ -103,7 +104,7 @@ public class Recuit {
 			tauxAccept = (double) acceptCount / (double) nbTransitions;
 			System.out.println("T= " + T + " tauxAccept= " + tauxAccept);
 			T = T * 1.1;
-		} while (tauxAccept < 0.9999);
+		} while (tauxAccept < heatUntil);
 		System.out.println("T= " + T + " tauxAccept= " + tauxAccept);
 		return T;
 	}
@@ -145,7 +146,8 @@ public class Recuit {
 		}
 	    }
 	     T = T * alpha;
-	} while ((T > 0.001 * Tinit)&&(!flag));
+	//} while ((T > 0.0005 * Tinit)&&(!flag));
+	} while ((T > 1.0)&&(!flag));
 	x.calculMaxCritere();
 	System.out.println("T= " + T + " Worse Decision Objective " + x.maxCout);
 	System.out.println(" "+x.featuresEtat.afficherFeaturesEtat());
@@ -201,17 +203,32 @@ public class Recuit {
 	// PMS entry numbers, like 0,1,2,3 (will be used in Decision.java)
 	int[] entryWithPMS;
 	if (args.length > 2) {
-		String[] pmsEntries = args[2].split(",");
-		entryWithPMS = new int[pmsEntries.length];
-		for (int i = 0; i < pmsEntries.length; i++) {
-			entryWithPMS[i] = Integer.parseInt(pmsEntries[i]);
+		if (args[2].equals("XXX")) {
+			entryWithPMS = new int[0];
+			System.out.println("No PMS entry numbers provided, using default.");
+		} else {
+			String[] pmsEntries = args[2].split(",");
+			entryWithPMS = new int[pmsEntries.length];
+			for (int i = 0; i < pmsEntries.length; i++) {
+				entryWithPMS[i] = Integer.parseInt(pmsEntries[i]);
+			}
+			System.out.println("PMS entry numbers: " + Arrays.toString(entryWithPMS));
 		}
-		System.out.println("PMS entry numbers: " + Arrays.toString(entryWithPMS));
 	} else {
 		entryWithPMS = new int[0];
 		System.out.println("No PMS entry numbers provided, using default.");
 	}
 	GlobalSettings.setEntryWithPMS(entryWithPMS); // sync it to GlobalSettings so it can be used in Decision.java
+
+
+	// Load hyperparameters if the filename is specified as the third argument
+	if (args.length > 3) {
+		HyperReader hyperReader = new HyperReader();
+		HyperParameters hyperParameters = hyperReader.readHyperparameters(args[3]);
+		nbTransitions = hyperParameters.getNbTransitions();
+		alpha = hyperParameters.getAlpha();
+		heatUntil = hyperParameters.getHeatUntil();
+	}
 
 	Constantes.NOM_FLIGHTSET=flightFile;
 	Constantes.NOM_AEROPORT=airportName;
