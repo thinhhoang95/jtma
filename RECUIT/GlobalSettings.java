@@ -10,20 +10,60 @@ import java.io.File;
 public class GlobalSettings {
     public static boolean DISABLE_OPTIMIZATION = false;
     private static Flight[] tableFlight;
+    private static String FOLDER_PATH = "LOGS";
+    public static String TIMESTAMP_STRING = "";
     private static String FILENAME_PREFIX = ""; // e.g., "PMS_eliminate0_150%_reduced_filteredSAREX"
-    private static String LOG_FILE_PATH = FILENAME_PREFIX + "_node_conflicts.log"; // conflicts
-    private static String NODE_LOG_FILE_PATH = FILENAME_PREFIX + "_node_events.log"; // node events
-    public static String LINK_TRAVEL_TIME_LOG_FILE_PATH = FILENAME_PREFIX + "_link_travel_time.log"; // link travel time
+    private static String LOG_FILE_PATH = FOLDER_PATH + "/" + FILENAME_PREFIX + "_node_conflicts.log"; // conflicts
+    private static String NODE_LOG_FILE_PATH = FOLDER_PATH + "/" + FILENAME_PREFIX + "_node_events.log"; // node events
+    public static String LINK_TRAVEL_TIME_LOG_FILE_PATH = FOLDER_PATH + "/" + FILENAME_PREFIX + "_link_travel_time.log"; // link travel time
     private static PrintWriter nodeLogWriter;
     private static PrintWriter conflictLogWriter;
     private static PrintWriter linkTravelTimeLogWriter;
     public static boolean ENABLE_LOG = false;
     public static int[] entryWithPMS; // PMS entry numbers, like 0,1,2,3
+    public static double iterProgress = 0.0; // between 0 and 1
+    public static boolean isCooling = false;
+
+    public static double getIterProgress() {
+        return iterProgress;
+    }
+
+    public static void setIterProgress(double progress) {
+        iterProgress = progress;
+    }
+
+    public static boolean getIsCooling() {
+        return isCooling;
+    }
+
+    public static void setIsCooling(boolean isCooling) {
+        GlobalSettings.isCooling = isCooling;
+    }
 
     public static void deleteFileIfExists(String filePath) {
         File file = new File(filePath);
         if (file.exists()) {
             file.delete();
+        }
+    }
+
+    public static void createResultDirectory() {
+        // Create the RESULT directory if it doesn't exist
+        File directory = new File("RESULT/" + TIMESTAMP_STRING);
+        if (!directory.exists()) {
+            directory.mkdirs();
+        }
+
+        // Create the LOGS directory if it doesn't exist
+        directory = new File("LOGS");
+        if (!directory.exists()) {
+            directory.mkdirs();
+        }
+
+        // Create the LOGS/<timestamp> directory if it doesn't exist
+        directory = new File("LOGS/" + TIMESTAMP_STRING);
+        if (!directory.exists()) {
+            directory.mkdirs();
         }
     }
 
@@ -34,9 +74,18 @@ public class GlobalSettings {
         FILENAME_PREFIX = filename_prefix.replaceAll("[^a-zA-Z0-9]", "");
         entryWithPMS = new int[0];
 
-        LOG_FILE_PATH = FILENAME_PREFIX + "_node_conflicts.log";
-        NODE_LOG_FILE_PATH = FILENAME_PREFIX + "_node_events.log";
-        LINK_TRAVEL_TIME_LOG_FILE_PATH = FILENAME_PREFIX + "_link_travel_time.log";
+        // Set folder path with current date time
+        java.time.LocalDateTime now = java.time.LocalDateTime.now();
+        java.time.format.DateTimeFormatter formatter = java.time.format.DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss");
+        TIMESTAMP_STRING = now.format(formatter);
+        FOLDER_PATH = "LOGS/" + TIMESTAMP_STRING;
+
+        // Create all directories
+        createResultDirectory();
+
+        LOG_FILE_PATH = FOLDER_PATH + "/" + FILENAME_PREFIX + "_node_conflicts.log";
+        NODE_LOG_FILE_PATH = FOLDER_PATH + "/" + FILENAME_PREFIX + "_node_events.log";
+        LINK_TRAVEL_TIME_LOG_FILE_PATH = FOLDER_PATH + "/" + FILENAME_PREFIX + "_link_travel_time.log";
 
         // Delete existing log files if they exist
         deleteFileIfExists(LOG_FILE_PATH);

@@ -1,0 +1,5588 @@
+***
+node=2
+Previous flight:
+Flight number: 577
+Callsign: CA2813_342101a4.csv_1
+Entry number: 0
+Entry time: 41025.69278941987
+Speed in: 179.02666666666667
+WTCat: 2
+
+tIn=41353.10454215786 tOut=41415.17350767511
+---
+Current flight:
+Flight number: 29
+Callsign: MU5331_34211888.csv_1
+Entry number: 0
+Entry time: 41132.6841127999
+Speed in: 141.98666666666668
+WTCat: 1
+
+tIn=41368.20056485855 tOut=41448.058595027134
+***
+***
+node=7
+Previous flight:
+Flight number: 660
+Callsign: CZ3352_342247e4.csv
+Entry number: 0
+Entry time: 83828.98415785159
+Speed in: 151.76111111111112
+WTCat: 1
+
+tIn=84361.19079009218 tOut=84434.41112907523
+---
+Current flight:
+Flight number: 51
+Callsign: ZH9052_3421ed78.csv_1
+Entry number: 0
+Entry time: 83947.96547736877
+Speed in: 149.1888888888889
+WTCat: 2
+
+tIn=84433.53774136402 tOut=84508.02049998472
+***
+***
+node=7
+Previous flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49118.46138915946 tOut=49195.05713384031
+---
+Current flight:
+Flight number: 152
+Callsign: SC1187_342148cd.csv_1
+Entry number: 0
+Entry time: 48226.16775194012
+Speed in: 157.42000000000002
+WTCat: 1
+
+tIn=49178.51808813042 tOut=49249.10632342453
+***
+***
+node=17
+Previous flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49189.41596304839 tOut=49266.01170772924
+---
+Current flight:
+Flight number: 152
+Callsign: SC1187_342148cd.csv_1
+Entry number: 0
+Entry time: 48226.16775194012
+Speed in: 157.42000000000002
+WTCat: 1
+
+tIn=49243.90759740061 tOut=49314.49583269472
+***
+***
+node=18
+Previous flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49277.56075028532 tOut=49354.15649496617
+---
+Current flight:
+Flight number: 152
+Callsign: SC1187_342148cd.csv_1
+Entry number: 0
+Entry time: 48226.16775194012
+Speed in: 157.42000000000002
+WTCat: 1
+
+tIn=49325.13906799151 tOut=49395.727303285625
+***
+***
+node=7
+Previous flight:
+Flight number: 562
+Callsign: AK1520_3421002a.csv_1
+Entry number: 3
+Entry time: 41676.39075362491
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42478.11025958851 tOut=42555.976157209276
+---
+Current flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42535.91030064122 tOut=42618.66892133087
+***
+***
+node=17
+Previous flight:
+Flight number: 562
+Callsign: AK1520_3421002a.csv_1
+Entry number: 3
+Entry time: 41676.39075362491
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42550.24144140782 tOut=42628.10733902859
+---
+Current flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42612.573863233854 tOut=42695.33248392351
+***
+***
+node=18
+Previous flight:
+Flight number: 562
+Callsign: AK1520_3421002a.csv_1
+Entry number: 3
+Entry time: 41676.39075362491
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42639.84789418654 tOut=42717.713791807306
+---
+Current flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42707.8107597887 tOut=42790.56938047835
+***
+***
+node=2
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=43613.851147590074 tOut=43686.09195026566
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=43679.36337673437 tOut=43746.03004340104
+***
+***
+node=7
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=43947.75552745482 tOut=44019.99633013041
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=44000.27411565137 tOut=44066.940782318045
+***
+***
+node=17
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=44014.67589480157 tOut=44086.91669747716
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=44062.030874406555 tOut=44128.69754107323
+***
+***
+node=18
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=44097.80910550664 tOut=44170.04990818223
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=44138.74948552018 tOut=44205.41615218685
+***
+***
+node=7
+Previous flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60750.68241084523 tOut=60836.05790491638
+---
+Current flight:
+Flight number: 193
+Callsign: ADD5395
+Entry number: 0
+Entry time: 59548.233193192864
+Speed in: 161.53555555555556
+WTCat: 2
+
+tIn=60816.34969722375 tOut=60885.83435269566
+***
+***
+node=17
+Previous flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60829.770117709566 tOut=60915.14561178072
+---
+Current flight:
+Flight number: 193
+Callsign: ADD5395
+Entry number: 0
+Entry time: 59548.233193192864
+Speed in: 161.53555555555556
+WTCat: 2
+
+tIn=60880.716903801236 tOut=60950.20155927315
+***
+***
+node=18
+Previous flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60928.018457633734 tOut=61013.393951704886
+---
+Current flight:
+Flight number: 193
+Callsign: ADD5395
+Entry number: 0
+Entry time: 59548.233193192864
+Speed in: 161.53555555555556
+WTCat: 2
+
+tIn=60960.678397723954 tOut=61030.163053195865
+***
+***
+node=4
+Previous flight:
+Flight number: 529
+Callsign: CZ3670_3421634a.csv_1
+Entry number: 2
+Entry time: 44892.76119339692
+Speed in: 191.37333333333333
+WTCat: 2
+
+tIn=45271.491309100384 tOut=45329.555825229414
+---
+Current flight:
+Flight number: 204
+Callsign: 9C8754_34212514.csv_1
+Entry number: 1
+Entry time: 45157.73361689822
+Speed in: 171.82444444444445
+WTCat: 2
+
+tIn=45317.00574975993 tOut=45396.8460691212
+***
+***
+node=7
+Previous flight:
+Flight number: 529
+Callsign: CZ3670_3421634a.csv_1
+Entry number: 2
+Entry time: 44892.76119339692
+Speed in: 191.37333333333333
+WTCat: 2
+
+tIn=45783.11578191607 tOut=45841.1802980451
+---
+Current flight:
+Flight number: 204
+Callsign: 9C8754_34212514.csv_1
+Entry number: 1
+Entry time: 45157.73361689822
+Speed in: 171.82444444444445
+WTCat: 2
+
+tIn=45821.80637571617 tOut=45901.64669507745
+***
+***
+node=18
+Previous flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43349.4156380087 tOut=43421.4156380087
+---
+Current flight:
+Flight number: 224
+Callsign: MU2269_34212705.csv
+Entry number: 1
+Entry time: 42836.40617825701
+Speed in: 168.73777777777778
+WTCat: 1
+
+tIn=43415.18814745284 tOut=43481.70699445949
+***
+***
+node=18
+Previous flight:
+Flight number: 385
+Callsign: HU7713_342213ed.csv_1
+Entry number: 0
+Entry time: 81008.71822264508
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=81759.33539566076 tOut=81831.81861713728
+---
+Current flight:
+Flight number: 256
+Callsign: FD596_34222da1.csv
+Entry number: 2
+Entry time: 81147.3607790518
+Speed in: 196.00333333333336
+WTCat: 2
+
+tIn=81816.02657579188 tOut=81874.47287825149
+***
+***
+node=8
+Previous flight:
+Flight number: 448
+Callsign: ADD1018
+Entry number: 0
+Entry time: 43862.90565217259
+Speed in: 191.37333333333333
+WTCat: 2
+
+tIn=43582.34538052573 tOut=43643.46592381944
+---
+Current flight:
+Flight number: 286
+Callsign: CZ8372_34202699.csv_1
+Entry number: 0
+Entry time: 43587.27406916997
+Speed in: 162.56444444444446
+WTCat: 1
+
+tIn=43633.096853980096 tOut=43701.45128435985
+***
+***
+node=7
+Previous flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60507.520538169316 tOut=60576.75130740008
+---
+Current flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60557.610056530466 tOut=60642.3159388834
+***
+***
+node=17
+Previous flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60571.652556876616 tOut=60640.88332610738
+---
+Current flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60636.07746765469 tOut=60720.78335000763
+***
+***
+node=7
+Previous flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81817.0713003225 tOut=81886.74871967734
+---
+Current flight:
+Flight number: 324
+Callsign: CZ6922_342230e7.csv_1
+Entry number: 0
+Entry time: 81039.32065202185
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81874.82153675496 tOut=81950.61101043917
+***
+***
+node=17
+Previous flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81881.6170739892 tOut=81951.29449334404
+---
+Current flight:
+Flight number: 324
+Callsign: CZ6922_342230e7.csv_1
+Entry number: 0
+Entry time: 81039.32065202185
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81945.02922039242 tOut=82020.81869407663
+***
+***
+node=18
+Previous flight:
+Flight number: 583
+Callsign: HU7713_342213ed.csv
+Entry number: 0
+Entry time: 81060.69075035423
+Speed in: 154.8477777777778
+WTCat: 1
+
+tIn=82184.31027787816 tOut=82257.53558128857
+---
+Current flight:
+Flight number: 329
+Callsign: ZH8246_342221fe.csv_1
+Entry number: 1
+Entry time: 81681.1692952283
+Speed in: 170.28111111111113
+WTCat: 1
+
+tIn=82250.31418974945 tOut=82315.57098733252
+***
+***
+node=8
+Previous flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=42453.36801366262 tOut=42525.36801366262
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=42493.790756829214 tOut=42574.689633233706
+***
+***
+node=1
+Previous flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=42557.231137584095 tOut=42629.231137584095
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=42610.490896066825 tOut=42691.38977247132
+***
+***
+node=7
+Previous flight:
+Flight number: 224
+Callsign: MU2269_34212705.csv
+Entry number: 1
+Entry time: 42836.40617825701
+Speed in: 168.73777777777778
+WTCat: 1
+
+tIn=43277.01981831546 tOut=43343.53866532211
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=43315.410430024924 tOut=43396.309306429415
+***
+***
+node=17
+Previous flight:
+Flight number: 224
+Callsign: MU2269_34212705.csv
+Entry number: 1
+Entry time: 42836.40617825701
+Speed in: 168.73777777777778
+WTCat: 1
+
+tIn=43338.63964412439 tOut=43405.15849113104
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=43390.35121593009 tOut=43471.25009233458
+***
+***
+node=7
+Previous flight:
+Flight number: 666
+Callsign: CZ3650_34218f89.csv
+Entry number: 1
+Entry time: 59800.426129744046
+Speed in: 155.87666666666667
+WTCat: 1
+
+tIn=60466.52324849918 tOut=60537.810377212045
+---
+Current flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60507.520538169316 tOut=60576.75130740008
+***
+***
+node=17
+Previous flight:
+Flight number: 666
+Callsign: CZ3650_34218f89.csv
+Entry number: 1
+Entry time: 59800.426129744046
+Speed in: 155.87666666666667
+WTCat: 1
+
+tIn=60532.560178653235 tOut=60603.8473073661
+---
+Current flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60571.652556876616 tOut=60640.88332610738
+***
+***
+node=18
+Previous flight:
+Flight number: 666
+Callsign: CZ3650_34218f89.csv
+Entry number: 1
+Entry time: 59800.426129744046
+Speed in: 155.87666666666667
+WTCat: 1
+
+tIn=60614.59592123018 tOut=60685.88304994305
+---
+Current flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60651.3218838023 tOut=60720.55265303307
+***
+***
+node=2
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42362.12354317468 tOut=42442.420940944205
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42423.524947704915 tOut=42499.00719539851
+***
+***
+node=7
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42723.0320786428 tOut=42803.32947641232
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42790.53281695192 tOut=42866.015064645515
+***
+***
+node=17
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42797.415683983614 tOut=42877.713081753136
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42860.4559013686 tOut=42935.938149062196
+***
+***
+node=18
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42889.82025647735 tOut=42970.117654246875
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42947.319299470415 tOut=43022.80154716401
+***
+***
+node=7
+Previous flight:
+Flight number: 197
+Callsign: CZ5258_34214804.csv_1
+Entry number: 1
+Entry time: 45213.76071465245
+Speed in: 199.09
+WTCat: 1
+
+tIn=46076.38625700704 tOut=46135.1377869948
+---
+Current flight:
+Flight number: 358
+Callsign: ZH9610_34210290.csv_1
+Entry number: 0
+Entry time: 44826.24779843881
+Speed in: 146.61666666666667
+WTCat: 1
+
+tIn=46120.17489177139 tOut=46195.964365455606
+***
+***
+node=7
+Previous flight:
+Flight number: 573
+Callsign: ZH8290_34214308.csv
+Entry number: 1
+Entry time: 44309.27425423258
+Speed in: 200.63333333333335
+WTCat: 2
+
+tIn=44769.75022168069 tOut=44825.1348370653
+---
+Current flight:
+Flight number: 361
+Callsign: CA1367_342121c8.csv
+Entry number: 0
+Entry time: 43683.976297866
+Speed in: 155.87666666666667
+WTCat: 2
+
+tIn=44811.29585405983 tOut=44882.58298277269
+***
+***
+node=7
+Previous flight:
+Flight number: 232
+Callsign: CA1375_34210d1b.csv_1
+Entry number: 0
+Entry time: 41369.74084268885
+Speed in: 132.21222222222224
+WTCat: 1
+
+tIn=42276.85215871619 tOut=42360.898851323196
+---
+Current flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42343.05648339325 tOut=42423.65349831862
+***
+***
+node=17
+Previous flight:
+Flight number: 232
+Callsign: CA1375_34210d1b.csv_1
+Entry number: 0
+Entry time: 41369.74084268885
+Speed in: 132.21222222222224
+WTCat: 1
+
+tIn=42354.70892850871 tOut=42438.75562111572
+---
+Current flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42417.71763950026 tOut=42498.31465442563
+***
+***
+node=18
+Previous flight:
+Flight number: 232
+Callsign: CA1375_34210d1b.csv_1
+Entry number: 0
+Entry time: 41369.74084268885
+Speed in: 132.21222222222224
+WTCat: 1
+
+tIn=42451.428111391266 tOut=42535.47480399827
+---
+Current flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42510.46700517494 tOut=42591.06402010031
+***
+***
+node=7
+Previous flight:
+Flight number: 405
+Callsign: CZ3156_342119ea.csv_1
+Entry number: 0
+Entry time: 43162.04916420224
+Speed in: 161.0211111111111
+WTCat: 1
+
+tIn=43775.10733628081 tOut=43844.11692094535
+---
+Current flight:
+Flight number: 421
+Callsign: 9C7519_3421376d.csv_1
+Entry number: 0
+Entry time: 43367.910850317094
+Speed in: 167.19444444444446
+WTCat: 2
+
+tIn=43817.187801203974 tOut=43883.649339665506
+***
+***
+node=17
+Previous flight:
+Flight number: 405
+Callsign: CZ3156_342119ea.csv_1
+Entry number: 0
+Entry time: 43162.04916420224
+Speed in: 161.0211111111111
+WTCat: 1
+
+tIn=43839.03446035965 tOut=43908.044045024195
+---
+Current flight:
+Flight number: 421
+Callsign: 9C7519_3421376d.csv_1
+Entry number: 0
+Entry time: 43367.910850317094
+Speed in: 167.19444444444446
+WTCat: 2
+
+tIn=43878.75453916298 tOut=43945.216077624515
+***
+***
+node=18
+Previous flight:
+Flight number: 405
+Callsign: CZ3156_342119ea.csv_1
+Entry number: 0
+Entry time: 43162.04916420224
+Speed in: 161.0211111111111
+WTCat: 1
+
+tIn=43918.449252694525 tOut=43987.45883735907
+---
+Current flight:
+Flight number: 421
+Callsign: 9C7519_3421376d.csv_1
+Entry number: 0
+Entry time: 43367.910850317094
+Speed in: 167.19444444444446
+WTCat: 2
+
+tIn=43955.237093011645 tOut=44021.69863147318
+***
+***
+node=7
+Previous flight:
+Flight number: 186
+Callsign: DZ6206_342157c6.csv
+Entry number: 1
+Entry time: 48261.23679075584
+Speed in: 156.90555555555557
+WTCat: 2
+
+tIn=49052.33733498699 tOut=49123.15700711814
+---
+Current flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49118.46138915946 tOut=49195.05713384031
+***
+***
+node=7
+Previous flight:
+Flight number: 324
+Callsign: CZ6922_342230e7.csv_1
+Entry number: 0
+Entry time: 81039.32065202185
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81874.82153675496 tOut=81950.61101043917
+---
+Current flight:
+Flight number: 466
+Callsign: PN6334_34221a1f.csv_1
+Entry number: 0
+Entry time: 81370.83378995852
+Speed in: 140.44333333333336
+WTCat: 1
+
+tIn=81947.60581432565 tOut=82026.72669344654
+***
+***
+node=7
+Previous flight:
+Flight number: 368
+Callsign: CZ8372_34202699.csv
+Entry number: 0
+Entry time: 43616.71905901961
+Speed in: 159.99222222222224
+WTCat: 1
+
+tIn=44884.98176625595 tOut=44955.13669171634
+---
+Current flight:
+Flight number: 480
+Callsign: SC4683_34214536.csv
+Entry number: 0
+Entry time: 43644.869830925774
+Speed in: 141.47222222222223
+WTCat: 2
+
+tIn=44947.41821613442 tOut=45025.96367067988
+***
+***
+node=7
+Previous flight:
+Flight number: 699
+Callsign: ZH9942_342156a4.csv
+Entry number: 1
+Entry time: 47576.855023213284
+Speed in: 157.93444444444447
+WTCat: 1
+
+tIn=48147.98392246746 tOut=48218.34222865638
+---
+Current flight:
+Flight number: 481
+Callsign: HO1883_342149f5.csv_1
+Entry number: 0
+Entry time: 47257.027951355856
+Speed in: 155.36222222222224
+WTCat: 2
+
+tIn=48183.943418391566 tOut=48255.466597199505
+***
+***
+node=17
+Previous flight:
+Flight number: 699
+Callsign: ZH9942_342156a4.csv
+Entry number: 1
+Entry time: 47576.855023213284
+Speed in: 157.93444444444447
+WTCat: 1
+
+tIn=48213.16043659345 tOut=48283.51874278237
+---
+Current flight:
+Flight number: 481
+Callsign: HO1883_342149f5.csv_1
+Entry number: 0
+Entry time: 47257.027951355856
+Speed in: 155.36222222222224
+WTCat: 2
+
+tIn=48250.19901387725 tOut=48321.72219268519
+***
+***
+node=18
+Previous flight:
+Flight number: 699
+Callsign: ZH9942_342156a4.csv
+Entry number: 1
+Entry time: 47576.855023213284
+Speed in: 157.93444444444447
+WTCat: 1
+
+tIn=48294.127309560274 tOut=48364.485615749196
+---
+Current flight:
+Flight number: 481
+Callsign: HO1883_342149f5.csv_1
+Entry number: 0
+Entry time: 47257.027951355856
+Speed in: 155.36222222222224
+WTCat: 2
+
+tIn=48332.50639798591 tOut=48404.02957679385
+***
+***
+node=18
+Previous flight:
+Flight number: 852
+Callsign: HU7703_34212730.csv
+Entry number: 0
+Entry time: 44346.58038278759
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=45179.133031082194 tOut=45248.81045043703
+---
+Current flight:
+Flight number: 491
+Callsign: ADD2838_1
+Entry number: 3
+Entry time: 44302.00506794649
+Speed in: 168.73777777777778
+WTCat: 2
+
+tIn=45246.139075393745 tOut=45311.992733930325
+***
+***
+node=7
+Previous flight:
+Flight number: 109
+Callsign: CZ6357_3420f7ea.csv
+Entry number: 0
+Entry time: 44132.36353401319
+Speed in: 171.31
+WTCat: 1
+
+tIn=45242.37711914156 tOut=45307.241984006425
+---
+Current flight:
+Flight number: 544
+Callsign: CZ6311_3421020f.csv
+Entry number: 0
+Entry time: 44078.42191203476
+Speed in: 155.36222222222224
+WTCat: 1
+
+tIn=45305.68546179815 tOut=45377.20864060609
+***
+***
+node=18
+Previous flight:
+Flight number: 416
+Callsign: ADD4614_1
+Entry number: 2
+Entry time: 43691.86758934234
+Speed in: 142.50111111111113
+WTCat: 1
+
+tIn=44832.14737980632 tOut=44910.12571915651
+---
+Current flight:
+Flight number: 573
+Callsign: ZH8290_34214308.csv
+Entry number: 1
+Entry time: 44309.27425423258
+Speed in: 200.63333333333335
+WTCat: 2
+
+tIn=44884.79129818708 tOut=44940.17591357169
+***
+***
+node=1
+Previous flight:
+Flight number: 29
+Callsign: MU5331_34211888.csv_1
+Entry number: 0
+Entry time: 41132.6841127999
+Speed in: 141.98666666666668
+WTCat: 1
+
+tIn=41047.9537710979 tOut=41127.811801266485
+---
+Current flight:
+Flight number: 577
+Callsign: CA2813_342101a4.csv_1
+Entry number: 0
+Entry time: 41025.69278941987
+Speed in: 179.02666666666667
+WTCat: 2
+
+tIn=41104.195482455616 tOut=41166.26444797286
+***
+***
+node=7
+Previous flight:
+Flight number: 711
+Callsign: ZH9322_3421b0f2.csv_1
+Entry number: 1
+Entry time: 59439.01335848598
+Speed in: 165.65111111111113
+WTCat: 2
+
+tIn=60326.43521895339 tOut=60393.51596429501
+---
+Current flight:
+Flight number: 579
+Callsign: ZH9140_34218dae.csv_1
+Entry number: 0
+Entry time: 59125.93076456676
+Speed in: 154.33333333333334
+WTCat: 2
+
+tIn=60391.91100318577 tOut=60463.91100318577
+***
+***
+node=18
+Previous flight:
+Flight number: 466
+Callsign: PN6334_34221a1f.csv_1
+Entry number: 0
+Entry time: 81370.83378995852
+Speed in: 140.44333333333336
+WTCat: 1
+
+tIn=82111.95020933478 tOut=82191.07108845568
+---
+Current flight:
+Flight number: 583
+Callsign: HU7713_342213ed.csv
+Entry number: 0
+Entry time: 81060.69075035423
+Speed in: 154.8477777777778
+WTCat: 1
+
+tIn=82184.31027787816 tOut=82257.53558128857
+***
+***
+node=17
+Previous flight:
+Flight number: 767
+Callsign: DZ6252_3421ebf2.csv_1
+Entry number: 0
+Entry time: 81049.56334061244
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81807.36029589066 tOut=81883.14976957487
+---
+Current flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81881.6170739892 tOut=81951.29449334404
+***
+***
+node=18
+Previous flight:
+Flight number: 767
+Callsign: DZ6252_3421ebf2.csv_1
+Entry number: 0
+Entry time: 81049.56334061244
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81894.57724326194 tOut=81970.36671694616
+---
+Current flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81961.80039657248 tOut=82031.47781592733
+***
+***
+node=8
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=41855.05027574458 tOut=41937.179553311114
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=41924.282316584264 tOut=42004.579714353786
+***
+***
+node=1
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=41973.52532204284 tOut=42055.65459960938
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42040.114796794085 tOut=42120.41219456361
+***
+***
+node=2
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42302.8802755652 tOut=42385.009553131735
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42362.12354317468 tOut=42442.420940944205
+***
+***
+node=7
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42675.515569175375 tOut=42757.64484674191
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42723.0320786428 tOut=42803.32947641232
+***
+***
+node=17
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42751.59613889659 tOut=42833.72541646312
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42797.415683983614 tOut=42877.713081753136
+***
+***
+node=18
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42846.108800496644 tOut=42928.23807806318
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42889.82025647735 tOut=42970.117654246875
+***
+***
+node=2
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43017.13961504046 tOut=43094.78439019414
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43065.152298225 tOut=43133.1217119888
+***
+***
+node=7
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43403.12696771686 tOut=43480.77174287054
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43471.31342634211 tOut=43539.28284010591
+***
+***
+node=17
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43475.053312433345 tOut=43552.69808758702
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43534.276986670244 tOut=43602.24640043404
+***
+***
+node=18
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43564.405302083636 tOut=43642.05007723731
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43612.49477200274 tOut=43680.46418576654
+***
+***
+node=7
+Previous flight:
+Flight number: 18
+Callsign: ZH9218_34212209.csv
+Entry number: 0
+Entry time: 42886.5751038641
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=44134.80598713634 tOut=44206.80598713634
+---
+Current flight:
+Flight number: 635
+Callsign: CZ6357_3420f7ea.csv_1
+Entry number: 0
+Entry time: 43530.86953443302
+Speed in: 174.39666666666668
+WTCat: 2
+
+tIn=44183.2471669664 tOut=44246.9639811257
+***
+***
+node=17
+Previous flight:
+Flight number: 18
+Callsign: ZH9218_34212209.csv
+Entry number: 0
+Entry time: 42886.5751038641
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=44201.503286591935 tOut=44273.503286591935
+---
+Current flight:
+Flight number: 635
+Callsign: CZ6357_3420f7ea.csv_1
+Entry number: 0
+Entry time: 43530.86953443302
+Speed in: 174.39666666666668
+WTCat: 2
+
+tIn=44242.27132577666 tOut=44305.98813993596
+***
+***
+node=18
+Previous flight:
+Flight number: 18
+Callsign: ZH9218_34212209.csv
+Entry number: 0
+Entry time: 42886.5751038641
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=44284.35938659465 tOut=44356.35938659465
+---
+Current flight:
+Flight number: 635
+Callsign: CZ6357_3420f7ea.csv_1
+Entry number: 0
+Entry time: 43530.86953443302
+Speed in: 174.39666666666668
+WTCat: 2
+
+tIn=44315.59530807995 tOut=44379.31212223925
+***
+***
+node=1
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=42905.41295691095 tOut=42985.117753958926
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=42975.76392082683 tOut=43045.217297032614
+***
+***
+node=2
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43225.04525497877 tOut=43304.75005202675
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43254.28595547757 tOut=43323.739331683355
+***
+***
+node=7
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43588.97539192531 tOut=43668.68018897329
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43650.7664945607 tOut=43720.21987076649
+***
+***
+node=17
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43662.810040769145 tOut=43742.51483781712
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43715.10472554681 tOut=43784.55810175259
+***
+***
+node=18
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43754.53266069835 tOut=43834.23745774633
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43795.030223941714 tOut=43864.4836001475
+***
+***
+node=18
+Previous flight:
+Flight number: 779
+Callsign: KN5851_3421309e.csv_1
+Entry number: 0
+Entry time: 46194.128048986706
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=47226.29416620468 tOut=47302.08363988889
+---
+Current flight:
+Flight number: 672
+Callsign: CZ3670_3421634a.csv
+Entry number: 2
+Entry time: 45544.04074180809
+Speed in: 193.43111111111114
+WTCat: 1
+
+tIn=47294.699493561835 tOut=47361.49810810909
+***
+***
+node=8
+Previous flight:
+Flight number: 319
+Callsign: HU7701_34210bcf.csv
+Entry number: 0
+Entry time: 41470.92938259873
+Speed in: 152.27555555555557
+WTCat: 2
+
+tIn=41162.113971442894 tOut=41239.74479375457
+---
+Current flight:
+Flight number: 682
+Callsign: CA1375_34210d1b.csv
+Entry number: 0
+Entry time: 41467.009274134325
+Speed in: 132.7266666666667
+WTCat: 2
+
+tIn=41235.14880901804 tOut=41318.86973925061
+***
+***
+node=7
+Previous flight:
+Flight number: 814
+Callsign: DZ6246_342136e9.csv_1
+Entry number: 0
+Entry time: 42444.14279091196
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43160.96017884555 tOut=43230.863091466905
+---
+Current flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43199.862238550384 tOut=43271.862238550384
+***
+***
+node=17
+Previous flight:
+Flight number: 814
+Callsign: DZ6246_342136e9.csv_1
+Entry number: 0
+Entry time: 42444.14279091196
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43225.71483851117 tOut=43295.61775113253
+---
+Current flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43266.55953800598 tOut=43338.55953800598
+***
+***
+node=18
+Previous flight:
+Flight number: 814
+Callsign: DZ6246_342136e9.csv_1
+Entry number: 0
+Entry time: 42444.14279091196
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43306.15765404779 tOut=43376.06056666915
+---
+Current flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43349.4156380087 tOut=43421.4156380087
+***
+***
+node=7
+Previous flight:
+Flight number: 913
+Callsign: ADD9015
+Entry number: 3
+Entry time: 42349.265741938194
+Speed in: 203.72000000000003
+WTCat: 2
+
+tIn=43032.48792095622 tOut=43095.18384572111
+---
+Current flight:
+Flight number: 690
+Callsign: DZ6204_34213d3a.csv
+Entry number: 0
+Entry time: 42414.22763012566
+Speed in: 157.93444444444447
+WTCat: 2
+
+tIn=43089.56205725937 tOut=43159.92036344829
+***
+***
+node=7
+Previous flight:
+Flight number: 299
+Callsign: ZH9452_3421473f.csv
+Entry number: 1
+Entry time: 43305.02326198901
+Speed in: 163.59333333333333
+WTCat: 2
+
+tIn=43883.71376791148 tOut=43951.638296213365
+---
+Current flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=43947.75552745482 tOut=44019.99633013041
+***
+***
+node=2
+Previous flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42133.566266897236 tOut=42216.32488758689
+---
+Current flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42175.08486622513 tOut=42243.3917411856
+***
+***
+node=17
+Previous flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42612.573863233854 tOut=42695.33248392351
+---
+Current flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42682.30569968481 tOut=42750.61257464528
+***
+***
+node=18
+Previous flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42707.8107597887 tOut=42790.56938047835
+---
+Current flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42760.911828332006 tOut=42829.21870329248
+***
+***
+node=18
+Previous flight:
+Flight number: 644
+Callsign: ZH9422_34214f8f.csv_1
+Entry number: 1
+Entry time: 45092.87175905273
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=46067.52863395245 tOut=46145.68755709617
+---
+Current flight:
+Flight number: 757
+Callsign: ZH8210_342153f4.csv_1
+Entry number: 1
+Entry time: 45474.0761639591
+Speed in: 185.71444444444447
+WTCat: 2
+
+tIn=46138.46513444461 tOut=46198.29892945846
+***
+***
+node=7
+Previous flight:
+Flight number: 256
+Callsign: FD596_34222da1.csv
+Entry number: 2
+Entry time: 81147.3607790518
+Speed in: 196.00333333333336
+WTCat: 2
+
+tIn=81694.62597553349 tOut=81753.0722779931
+---
+Current flight:
+Flight number: 767
+Callsign: DZ6252_3421ebf2.csv_1
+Entry number: 0
+Entry time: 81049.56334061244
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81737.1526122532 tOut=81812.94208593741
+***
+***
+node=7
+Previous flight:
+Flight number: 697
+Callsign: ZH8014_34215d55.csv
+Entry number: 1
+Entry time: 45856.49374696489
+Speed in: 198.06111111111113
+WTCat: 1
+
+tIn=47010.75472917365 tOut=47075.241966074675
+---
+Current flight:
+Flight number: 779
+Callsign: KN5851_3421309e.csv_1
+Entry number: 0
+Entry time: 46194.128048986706
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=47068.86953519593 tOut=47144.659008880146
+***
+***
+node=7
+Previous flight:
+Flight number: 338
+Callsign: CA1893_3420e38d.csv
+Entry number: 0
+Entry time: 34604.83109238123
+Speed in: 161.53555555555556
+WTCat: 1
+
+tIn=35922.14869647476 tOut=35990.938505391954
+---
+Current flight:
+Flight number: 795
+Callsign: AK126_3420b8f8.csv_1
+Entry number: 3
+Entry time: 34912.36959821298
+Speed in: 178.51222222222225
+WTCat: 2
+
+tIn=35988.308670261096 tOut=36050.55650887782
+***
+***
+node=17
+Previous flight:
+Flight number: 338
+Callsign: CA1893_3420e38d.csv
+Entry number: 0
+Entry time: 34604.83109238123
+Speed in: 161.53555555555556
+WTCat: 1
+
+tIn=35985.872230986475 tOut=36054.66203990367
+---
+Current flight:
+Flight number: 795
+Callsign: AK126_3420b8f8.csv_1
+Entry number: 3
+Entry time: 34912.36959821298
+Speed in: 178.51222222222225
+WTCat: 2
+
+tIn=36045.97204154835 tOut=36108.219880165074
+***
+***
+node=18
+Previous flight:
+Flight number: 338
+Callsign: CA1893_3420e38d.csv
+Entry number: 0
+Entry time: 34604.83109238123
+Speed in: 161.53555555555556
+WTCat: 1
+
+tIn=36065.034109969965 tOut=36133.82391888716
+---
+Current flight:
+Flight number: 795
+Callsign: AK126_3420b8f8.csv_1
+Entry number: 3
+Entry time: 34912.36959821298
+Speed in: 178.51222222222225
+WTCat: 2
+
+tIn=36117.60555740085 tOut=36179.85339601757
+***
+***
+node=7
+Previous flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43650.7664945607 tOut=43720.21987076649
+---
+Current flight:
+Flight number: 811
+Callsign: DZ6246_342136e9.csv
+Entry number: 0
+Entry time: 42880.67432525707
+Speed in: 162.05
+WTCat: 2
+
+tIn=43706.48884291581 tOut=43775.060271487244
+***
+***
+node=17
+Previous flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43715.10472554681 tOut=43784.55810175259
+---
+Current flight:
+Flight number: 811
+Callsign: DZ6246_342136e9.csv
+Entry number: 0
+Entry time: 42880.67432525707
+Speed in: 162.05
+WTCat: 2
+
+tIn=43770.01008049257 tOut=43838.581509064
+***
+***
+node=18
+Previous flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43795.030223941714 tOut=43864.4836001475
+---
+Current flight:
+Flight number: 811
+Callsign: DZ6246_342136e9.csv
+Entry number: 0
+Entry time: 42880.67432525707
+Speed in: 162.05
+WTCat: 2
+
+tIn=43848.92065192373 tOut=43917.49208049516
+***
+***
+node=18
+Previous flight:
+Flight number: 480
+Callsign: SC4683_34214536.csv
+Entry number: 0
+Entry time: 43644.869830925774
+Speed in: 141.47222222222223
+WTCat: 2
+
+tIn=45110.567379179854 tOut=45189.11283372531
+---
+Current flight:
+Flight number: 852
+Callsign: HU7703_34212730.csv
+Entry number: 0
+Entry time: 44346.58038278759
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=45179.133031082194 tOut=45248.81045043703
+***
+***
+node=8
+Previous flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42011.939506158844 tOut=42087.42175385244
+---
+Current flight:
+Flight number: 867
+Callsign: HU7276_34212b12.csv
+Entry number: 0
+Entry time: 42269.42597021806
+Speed in: 145.5877777777778
+WTCat: 2
+
+tIn=42086.26342604845 tOut=42162.588514387666
+***
+***
+node=8
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=42765.64160103394 tOut=42835.544513655295
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=42790.4353289536 tOut=42870.14012600158
+***
+***
+node=1
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=42866.479585423716 tOut=42936.38249804507
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=42905.41295691095 tOut=42985.117753958926
+***
+***
+node=7
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43539.30328264228 tOut=43609.206195263636
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43588.97539192531 tOut=43668.68018897329
+***
+***
+node=17
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43604.0579423079 tOut=43673.96085492926
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43662.810040769145 tOut=43742.51483781712
+***
+***
+node=8
+Previous flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=41802.6249017927 tOut=41870.93177675317
+---
+Current flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=41855.05027574458 tOut=41937.179553311114
+***
+***
+node=7
+Previous flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42619.029531711 tOut=42687.33640667147
+---
+Current flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42675.515569175375 tOut=42757.64484674191
+***
+***
+node=6
+Previous flight:
+Flight number: 708
+Callsign: ZH9312_34212578.csv_1
+Entry number: 2
+Entry time: 36561.38045450444
+Speed in: 196.00333333333336
+WTCat: 1
+
+tIn=37052.04404464891 tOut=37108.73695803473
+---
+Current flight:
+Flight number: 893
+Callsign: ADD8743
+Entry number: 3
+Entry time: 36764.31413761459
+Speed in: 181.5988888888889
+WTCat: 1
+
+tIn=37100.99447628695 tOut=37162.184277986664
+***
+***
+node=17
+Previous flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60636.07746765469 tOut=60720.78335000763
+---
+Current flight:
+Flight number: 899
+Callsign: MU6159_342194e3.csv
+Entry number: 1
+Entry time: 59601.6538366451
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=60707.22389036807 tOut=60774.51360999423
+***
+***
+node=18
+Previous flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60733.555232363775 tOut=60818.26111471671
+---
+Current flight:
+Flight number: 899
+Callsign: MU6159_342194e3.csv
+Entry number: 1
+Entry time: 59601.6538366451
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=60784.65949784724 tOut=60851.949217473404
+***
+***
+node=18
+Previous flight:
+Flight number: 358
+Callsign: ZH9610_34210290.csv_1
+Entry number: 0
+Entry time: 44826.24779843881
+Speed in: 146.61666666666667
+WTCat: 1
+
+tIn=46277.59952278014 tOut=46353.38899646435
+---
+Current flight:
+Flight number: 905
+Callsign: CA4003_342150ad.csv
+Entry number: 1
+Entry time: 45432.61749646174
+Speed in: 182.6277777777778
+WTCat: 1
+
+tIn=46338.651402604926 tOut=46399.496473027466
+***
+***
+node=18
+Previous flight:
+Flight number: 414
+Callsign: CZ3156_342119ea.csv
+Entry number: 0
+Entry time: 42270.038535734515
+Speed in: 158.4488888888889
+WTCat: 1
+
+tIn=43100.9586027606 tOut=43171.088472890464
+---
+Current flight:
+Flight number: 913
+Callsign: ADD9015
+Entry number: 3
+Entry time: 42349.265741938194
+Speed in: 203.72000000000003
+WTCat: 2
+
+tIn=43162.7155415225 tOut=43225.41146628739
+***
+***
+node=7
+Previous flight:
+Flight number: 43
+Callsign: ZH8970_3421a1d3.csv_1
+Entry number: 0
+Entry time: 59143.94147239365
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=59947.75666665067 tOut=60024.6249940528
+---
+Current flight:
+Flight number: 919
+Callsign: ADD8906
+Entry number: 1
+Entry time: 59452.22897019253
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=60009.30517713699 tOut=60085.90092181783
+***
+***
+node=17
+Previous flight:
+Flight number: 43
+Callsign: ZH8970_3421a1d3.csv_1
+Entry number: 0
+Entry time: 59143.94147239365
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=60018.96374791999 tOut=60095.83207532212
+---
+Current flight:
+Flight number: 919
+Callsign: ADD8906
+Entry number: 1
+Entry time: 59452.22897019253
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=60080.259751025915 tOut=60156.85549570676
+***
+***
+node=18
+Previous flight:
+Flight number: 43
+Callsign: ZH8970_3421a1d3.csv_1
+Entry number: 0
+Entry time: 59143.94147239365
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=60107.42221767378 tOut=60184.29054507591
+---
+Current flight:
+Flight number: 919
+Callsign: ADD8906
+Entry number: 1
+Entry time: 59452.22897019253
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=60168.40453826285 tOut=60245.00028294369
+***
+***
+node=7
+Previous flight:
+Flight number: 144
+Callsign: ZH9636_3421e9b1.csv
+Entry number: 0
+Entry time: 83336.81876239832
+Speed in: 149.70333333333335
+WTCat: 1
+
+tIn=84012.661290042 tOut=84086.88809416573
+---
+Current flight:
+Flight number: 924
+Callsign: ADD5293
+Entry number: 2
+Entry time: 82716.83113909607
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=84071.13033025096 tOut=84143.61355172748
+***
+***
+node=17
+Previous flight:
+Flight number: 144
+Callsign: ZH9636_3421e9b1.csv
+Entry number: 0
+Entry time: 83336.81876239832
+Speed in: 149.70333333333335
+WTCat: 1
+
+tIn=84081.42139257354 tOut=84155.64819669726
+---
+Current flight:
+Flight number: 924
+Callsign: ADD5293
+Entry number: 2
+Entry time: 82716.83113909607
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=84138.27526258881 tOut=84210.75848406533
+***
+***
+node=18
+Previous flight:
+Flight number: 144
+Callsign: ZH9636_3421e9b1.csv
+Entry number: 0
+Entry time: 83336.81876239832
+Speed in: 149.70333333333335
+WTCat: 1
+
+tIn=84166.84005237016 tOut=84241.06685649388
+---
+Current flight:
+Flight number: 924
+Callsign: ADD5293
+Entry number: 2
+Entry time: 82716.83113909607
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=84221.6874437996 tOut=84294.17066527612
+***
+***
+node=7
+Previous flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48783.07566545687 tOut=48849.74233212354
+---
+Current flight:
+Flight number: 938
+Callsign: 9C8881_3421541d.csv_1
+Entry number: 0
+Entry time: 48269.7499165926
+Speed in: 157.42000000000002
+WTCat: 2
+
+tIn=48831.653102872835 tOut=48902.24133816695
+***
+***
+node=17
+Previous flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48844.83242421205 tOut=48911.49909087872
+---
+Current flight:
+Flight number: 938
+Callsign: 9C8881_3421541d.csv_1
+Entry number: 0
+Entry time: 48269.7499165926
+Speed in: 157.42000000000002
+WTCat: 2
+
+tIn=48897.04261214303 tOut=48967.63084743714
+***
+***
+node=18
+Previous flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48921.551035325676 tOut=48988.21770199235
+---
+Current flight:
+Flight number: 938
+Callsign: 9C8881_3421541d.csv_1
+Entry number: 0
+Entry time: 48269.7499165926
+Speed in: 157.42000000000002
+WTCat: 2
+
+tIn=48978.27408273393 tOut=49048.86231802804
+***
+***
+node=8
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=41541.30829508863 tOut=41621.905310014
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=41604.703361308064 tOut=41682.122716146776
+***
+***
+node=1
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=41657.5729860455 tOut=41738.17000097087
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=41716.384139718255 tOut=41793.80349455697
+***
+***
+node=2
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=41980.78325759916 tOut=42061.38027252453
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42026.851353970516 tOut=42104.27070880923
+***
+***
+node=7
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42343.05648339325 tOut=42423.65349831862
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42400.67619547261 tOut=42478.09555031132
+***
+***
+node=17
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42417.71763950026 tOut=42498.31465442563
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42472.393721768945 tOut=42549.81307660766
+***
+***
+node=18
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42510.46700517494 tOut=42591.06402010031
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42561.486302417026 tOut=42638.90565725574
+***
+***
+node=18
+Previous flight:
+Flight number: 501
+Callsign: ZH8300_34216109.csv_1
+Entry number: 1
+Entry time: 47934.03247749835
+Speed in: 144.04444444444445
+WTCat: 1
+
+tIn=48856.05164376047 tOut=48933.19450090332
+---
+Current flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48921.551035325676 tOut=48988.21770199235
+***
+***
+node=7
+Previous flight:
+Flight number: 422
+Callsign: ZH9426_3421a058.csv_1
+Entry number: 1
+Entry time: 59554.77885191178
+Speed in: 174.91111111111113
+WTCat: 1
+
+tIn=60717.30695485024 tOut=60782.13288522238
+---
+Current flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60750.68241084523 tOut=60836.05790491638
+***
+***
+node=17
+Previous flight:
+Flight number: 422
+Callsign: ZH9426_3421a058.csv_1
+Entry number: 1
+Entry time: 59554.77885191178
+Speed in: 174.91111111111113
+WTCat: 1
+
+tIn=60777.358544996336 tOut=60842.18447536848
+---
+Current flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60829.770117709566 tOut=60915.14561178072
+***
+***
+node=7
+Previous flight:
+Flight number: 415
+Callsign: CZ3192_34213395.csv_1
+Entry number: 0
+Entry time: 45596.49596281202
+Speed in: 156.39111111111112
+WTCat: 1
+
+tIn=46395.77892758567 tOut=46466.83155916462
+---
+Current flight:
+Flight number: 970
+Callsign: ZH9610_34210290.csv
+Entry number: 0
+Entry time: 45175.85269469003
+Speed in: 146.10222222222222
+WTCat: 1
+
+tIn=46463.4763495891 tOut=46539.53268761727
+***
+***
+node=2
+Previous flight:
+Flight number: 577
+Callsign: CA2813_342101a4.csv_1
+Entry number: 0
+Entry time: 41025.69278941987
+Speed in: 179.02666666666667
+WTCat: 2
+
+tIn=41353.10454215786 tOut=41415.17350767511
+---
+Current flight:
+Flight number: 29
+Callsign: MU5331_34211888.csv_1
+Entry number: 0
+Entry time: 41132.6841127999
+Speed in: 141.98666666666668
+WTCat: 1
+
+tIn=41368.20056485855 tOut=41448.058595027134
+***
+***
+node=7
+Previous flight:
+Flight number: 660
+Callsign: CZ3352_342247e4.csv
+Entry number: 0
+Entry time: 83828.98415785159
+Speed in: 151.76111111111112
+WTCat: 1
+
+tIn=84361.19079009218 tOut=84434.41112907523
+---
+Current flight:
+Flight number: 51
+Callsign: ZH9052_3421ed78.csv_1
+Entry number: 0
+Entry time: 83947.96547736877
+Speed in: 149.1888888888889
+WTCat: 2
+
+tIn=84433.53774136402 tOut=84508.02049998472
+***
+***
+node=7
+Previous flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49118.46138915946 tOut=49195.05713384031
+---
+Current flight:
+Flight number: 152
+Callsign: SC1187_342148cd.csv_1
+Entry number: 0
+Entry time: 48226.16775194012
+Speed in: 157.42000000000002
+WTCat: 1
+
+tIn=49178.51808813042 tOut=49249.10632342453
+***
+***
+node=17
+Previous flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49189.41596304839 tOut=49266.01170772924
+---
+Current flight:
+Flight number: 152
+Callsign: SC1187_342148cd.csv_1
+Entry number: 0
+Entry time: 48226.16775194012
+Speed in: 157.42000000000002
+WTCat: 1
+
+tIn=49243.90759740061 tOut=49314.49583269472
+***
+***
+node=18
+Previous flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49277.56075028532 tOut=49354.15649496617
+---
+Current flight:
+Flight number: 152
+Callsign: SC1187_342148cd.csv_1
+Entry number: 0
+Entry time: 48226.16775194012
+Speed in: 157.42000000000002
+WTCat: 1
+
+tIn=49325.13906799151 tOut=49395.727303285625
+***
+***
+node=7
+Previous flight:
+Flight number: 562
+Callsign: AK1520_3421002a.csv_1
+Entry number: 3
+Entry time: 41676.39075362491
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42478.11025958851 tOut=42555.976157209276
+---
+Current flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42535.91030064122 tOut=42618.66892133087
+***
+***
+node=17
+Previous flight:
+Flight number: 562
+Callsign: AK1520_3421002a.csv_1
+Entry number: 3
+Entry time: 41676.39075362491
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42550.24144140782 tOut=42628.10733902859
+---
+Current flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42612.573863233854 tOut=42695.33248392351
+***
+***
+node=18
+Previous flight:
+Flight number: 562
+Callsign: AK1520_3421002a.csv_1
+Entry number: 3
+Entry time: 41676.39075362491
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42639.84789418654 tOut=42717.713791807306
+---
+Current flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42707.8107597887 tOut=42790.56938047835
+***
+***
+node=2
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=43613.851147590074 tOut=43686.09195026566
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=43679.36337673437 tOut=43746.03004340104
+***
+***
+node=7
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=43947.75552745482 tOut=44019.99633013041
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=44000.27411565137 tOut=44066.940782318045
+***
+***
+node=17
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=44014.67589480157 tOut=44086.91669747716
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=44062.030874406555 tOut=44128.69754107323
+***
+***
+node=18
+Previous flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=44097.80910550664 tOut=44170.04990818223
+---
+Current flight:
+Flight number: 172
+Callsign: 9C7519_3421376d.csv
+Entry number: 0
+Entry time: 43624.18038305282
+Speed in: 166.68
+WTCat: 1
+
+tIn=44138.74948552018 tOut=44205.41615218685
+***
+***
+node=7
+Previous flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60750.68241084523 tOut=60836.05790491638
+---
+Current flight:
+Flight number: 193
+Callsign: ADD5395
+Entry number: 0
+Entry time: 59548.233193192864
+Speed in: 161.53555555555556
+WTCat: 2
+
+tIn=60816.34969722375 tOut=60885.83435269566
+***
+***
+node=17
+Previous flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60829.770117709566 tOut=60915.14561178072
+---
+Current flight:
+Flight number: 193
+Callsign: ADD5395
+Entry number: 0
+Entry time: 59548.233193192864
+Speed in: 161.53555555555556
+WTCat: 2
+
+tIn=60880.716903801236 tOut=60950.20155927315
+***
+***
+node=18
+Previous flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60928.018457633734 tOut=61013.393951704886
+---
+Current flight:
+Flight number: 193
+Callsign: ADD5395
+Entry number: 0
+Entry time: 59548.233193192864
+Speed in: 161.53555555555556
+WTCat: 2
+
+tIn=60960.678397723954 tOut=61030.163053195865
+***
+***
+node=4
+Previous flight:
+Flight number: 529
+Callsign: CZ3670_3421634a.csv_1
+Entry number: 2
+Entry time: 44892.76119339692
+Speed in: 191.37333333333333
+WTCat: 2
+
+tIn=45271.491309100384 tOut=45329.555825229414
+---
+Current flight:
+Flight number: 204
+Callsign: 9C8754_34212514.csv_1
+Entry number: 1
+Entry time: 45157.73361689822
+Speed in: 171.82444444444445
+WTCat: 2
+
+tIn=45317.00574975993 tOut=45396.8460691212
+***
+***
+node=7
+Previous flight:
+Flight number: 529
+Callsign: CZ3670_3421634a.csv_1
+Entry number: 2
+Entry time: 44892.76119339692
+Speed in: 191.37333333333333
+WTCat: 2
+
+tIn=45783.11578191607 tOut=45841.1802980451
+---
+Current flight:
+Flight number: 204
+Callsign: 9C8754_34212514.csv_1
+Entry number: 1
+Entry time: 45157.73361689822
+Speed in: 171.82444444444445
+WTCat: 2
+
+tIn=45821.80637571617 tOut=45901.64669507745
+***
+***
+node=18
+Previous flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43349.4156380087 tOut=43421.4156380087
+---
+Current flight:
+Flight number: 224
+Callsign: MU2269_34212705.csv
+Entry number: 1
+Entry time: 42836.40617825701
+Speed in: 168.73777777777778
+WTCat: 1
+
+tIn=43415.18814745284 tOut=43481.70699445949
+***
+***
+node=18
+Previous flight:
+Flight number: 385
+Callsign: HU7713_342213ed.csv_1
+Entry number: 0
+Entry time: 81008.71822264508
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=81759.33539566076 tOut=81831.81861713728
+---
+Current flight:
+Flight number: 256
+Callsign: FD596_34222da1.csv
+Entry number: 2
+Entry time: 81147.3607790518
+Speed in: 196.00333333333336
+WTCat: 2
+
+tIn=81816.02657579188 tOut=81874.47287825149
+***
+***
+node=8
+Previous flight:
+Flight number: 448
+Callsign: ADD1018
+Entry number: 0
+Entry time: 43862.90565217259
+Speed in: 191.37333333333333
+WTCat: 2
+
+tIn=43582.34538052573 tOut=43643.46592381944
+---
+Current flight:
+Flight number: 286
+Callsign: CZ8372_34202699.csv_1
+Entry number: 0
+Entry time: 43587.27406916997
+Speed in: 162.56444444444446
+WTCat: 1
+
+tIn=43633.096853980096 tOut=43701.45128435985
+***
+***
+node=7
+Previous flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60507.520538169316 tOut=60576.75130740008
+---
+Current flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60557.610056530466 tOut=60642.3159388834
+***
+***
+node=17
+Previous flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60571.652556876616 tOut=60640.88332610738
+---
+Current flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60636.07746765469 tOut=60720.78335000763
+***
+***
+node=7
+Previous flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81817.0713003225 tOut=81886.74871967734
+---
+Current flight:
+Flight number: 324
+Callsign: CZ6922_342230e7.csv_1
+Entry number: 0
+Entry time: 81039.32065202185
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81874.82153675496 tOut=81950.61101043917
+***
+***
+node=17
+Previous flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81881.6170739892 tOut=81951.29449334404
+---
+Current flight:
+Flight number: 324
+Callsign: CZ6922_342230e7.csv_1
+Entry number: 0
+Entry time: 81039.32065202185
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81945.02922039242 tOut=82020.81869407663
+***
+***
+node=18
+Previous flight:
+Flight number: 583
+Callsign: HU7713_342213ed.csv
+Entry number: 0
+Entry time: 81060.69075035423
+Speed in: 154.8477777777778
+WTCat: 1
+
+tIn=82184.31027787816 tOut=82257.53558128857
+---
+Current flight:
+Flight number: 329
+Callsign: ZH8246_342221fe.csv_1
+Entry number: 1
+Entry time: 81681.1692952283
+Speed in: 170.28111111111113
+WTCat: 1
+
+tIn=82250.31418974945 tOut=82315.57098733252
+***
+***
+node=8
+Previous flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=42453.36801366262 tOut=42525.36801366262
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=42493.790756829214 tOut=42574.689633233706
+***
+***
+node=1
+Previous flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=42557.231137584095 tOut=42629.231137584095
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=42610.490896066825 tOut=42691.38977247132
+***
+***
+node=7
+Previous flight:
+Flight number: 224
+Callsign: MU2269_34212705.csv
+Entry number: 1
+Entry time: 42836.40617825701
+Speed in: 168.73777777777778
+WTCat: 1
+
+tIn=43277.01981831546 tOut=43343.53866532211
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=43315.410430024924 tOut=43396.309306429415
+***
+***
+node=17
+Previous flight:
+Flight number: 224
+Callsign: MU2269_34212705.csv
+Entry number: 1
+Entry time: 42836.40617825701
+Speed in: 168.73777777777778
+WTCat: 1
+
+tIn=43338.63964412439 tOut=43405.15849113104
+---
+Current flight:
+Flight number: 333
+Callsign: ZH9634_34212235.csv_1
+Entry number: 0
+Entry time: 42529.24019503146
+Speed in: 137.35666666666668
+WTCat: 2
+
+tIn=43390.35121593009 tOut=43471.25009233458
+***
+***
+node=7
+Previous flight:
+Flight number: 666
+Callsign: CZ3650_34218f89.csv
+Entry number: 1
+Entry time: 59800.426129744046
+Speed in: 155.87666666666667
+WTCat: 1
+
+tIn=60466.52324849918 tOut=60537.810377212045
+---
+Current flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60507.520538169316 tOut=60576.75130740008
+***
+***
+node=17
+Previous flight:
+Flight number: 666
+Callsign: CZ3650_34218f89.csv
+Entry number: 1
+Entry time: 59800.426129744046
+Speed in: 155.87666666666667
+WTCat: 1
+
+tIn=60532.560178653235 tOut=60603.8473073661
+---
+Current flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60571.652556876616 tOut=60640.88332610738
+***
+***
+node=18
+Previous flight:
+Flight number: 666
+Callsign: CZ3650_34218f89.csv
+Entry number: 1
+Entry time: 59800.426129744046
+Speed in: 155.87666666666667
+WTCat: 1
+
+tIn=60614.59592123018 tOut=60685.88304994305
+---
+Current flight:
+Flight number: 335
+Callsign: CZ6889_3421634c.csv
+Entry number: 0
+Entry time: 59742.25920512969
+Speed in: 160.5066666666667
+WTCat: 2
+
+tIn=60651.3218838023 tOut=60720.55265303307
+***
+***
+node=2
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42362.12354317468 tOut=42442.420940944205
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42423.524947704915 tOut=42499.00719539851
+***
+***
+node=7
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42723.0320786428 tOut=42803.32947641232
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42790.53281695192 tOut=42866.015064645515
+***
+***
+node=17
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42797.415683983614 tOut=42877.713081753136
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42860.4559013686 tOut=42935.938149062196
+***
+***
+node=18
+Previous flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42889.82025647735 tOut=42970.117654246875
+---
+Current flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42947.319299470415 tOut=43022.80154716401
+***
+***
+node=7
+Previous flight:
+Flight number: 197
+Callsign: CZ5258_34214804.csv_1
+Entry number: 1
+Entry time: 45213.76071465245
+Speed in: 199.09
+WTCat: 1
+
+tIn=46076.38625700704 tOut=46135.1377869948
+---
+Current flight:
+Flight number: 358
+Callsign: ZH9610_34210290.csv_1
+Entry number: 0
+Entry time: 44826.24779843881
+Speed in: 146.61666666666667
+WTCat: 1
+
+tIn=46120.17489177139 tOut=46195.964365455606
+***
+***
+node=7
+Previous flight:
+Flight number: 573
+Callsign: ZH8290_34214308.csv
+Entry number: 1
+Entry time: 44309.27425423258
+Speed in: 200.63333333333335
+WTCat: 2
+
+tIn=44769.75022168069 tOut=44825.1348370653
+---
+Current flight:
+Flight number: 361
+Callsign: CA1367_342121c8.csv
+Entry number: 0
+Entry time: 43683.976297866
+Speed in: 155.87666666666667
+WTCat: 2
+
+tIn=44811.29585405983 tOut=44882.58298277269
+***
+***
+node=7
+Previous flight:
+Flight number: 232
+Callsign: CA1375_34210d1b.csv_1
+Entry number: 0
+Entry time: 41369.74084268885
+Speed in: 132.21222222222224
+WTCat: 1
+
+tIn=42276.85215871619 tOut=42360.898851323196
+---
+Current flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42343.05648339325 tOut=42423.65349831862
+***
+***
+node=17
+Previous flight:
+Flight number: 232
+Callsign: CA1375_34210d1b.csv_1
+Entry number: 0
+Entry time: 41369.74084268885
+Speed in: 132.21222222222224
+WTCat: 1
+
+tIn=42354.70892850871 tOut=42438.75562111572
+---
+Current flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42417.71763950026 tOut=42498.31465442563
+***
+***
+node=18
+Previous flight:
+Flight number: 232
+Callsign: CA1375_34210d1b.csv_1
+Entry number: 0
+Entry time: 41369.74084268885
+Speed in: 132.21222222222224
+WTCat: 1
+
+tIn=42451.428111391266 tOut=42535.47480399827
+---
+Current flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42510.46700517494 tOut=42591.06402010031
+***
+***
+node=7
+Previous flight:
+Flight number: 405
+Callsign: CZ3156_342119ea.csv_1
+Entry number: 0
+Entry time: 43162.04916420224
+Speed in: 161.0211111111111
+WTCat: 1
+
+tIn=43775.10733628081 tOut=43844.11692094535
+---
+Current flight:
+Flight number: 421
+Callsign: 9C7519_3421376d.csv_1
+Entry number: 0
+Entry time: 43367.910850317094
+Speed in: 167.19444444444446
+WTCat: 2
+
+tIn=43817.187801203974 tOut=43883.649339665506
+***
+***
+node=17
+Previous flight:
+Flight number: 405
+Callsign: CZ3156_342119ea.csv_1
+Entry number: 0
+Entry time: 43162.04916420224
+Speed in: 161.0211111111111
+WTCat: 1
+
+tIn=43839.03446035965 tOut=43908.044045024195
+---
+Current flight:
+Flight number: 421
+Callsign: 9C7519_3421376d.csv_1
+Entry number: 0
+Entry time: 43367.910850317094
+Speed in: 167.19444444444446
+WTCat: 2
+
+tIn=43878.75453916298 tOut=43945.216077624515
+***
+***
+node=18
+Previous flight:
+Flight number: 405
+Callsign: CZ3156_342119ea.csv_1
+Entry number: 0
+Entry time: 43162.04916420224
+Speed in: 161.0211111111111
+WTCat: 1
+
+tIn=43918.449252694525 tOut=43987.45883735907
+---
+Current flight:
+Flight number: 421
+Callsign: 9C7519_3421376d.csv_1
+Entry number: 0
+Entry time: 43367.910850317094
+Speed in: 167.19444444444446
+WTCat: 2
+
+tIn=43955.237093011645 tOut=44021.69863147318
+***
+***
+node=7
+Previous flight:
+Flight number: 186
+Callsign: DZ6206_342157c6.csv
+Entry number: 1
+Entry time: 48261.23679075584
+Speed in: 156.90555555555557
+WTCat: 2
+
+tIn=49052.33733498699 tOut=49123.15700711814
+---
+Current flight:
+Flight number: 449
+Callsign: ZH8300_34216109.csv
+Entry number: 1
+Entry time: 48243.11588590095
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=49118.46138915946 tOut=49195.05713384031
+***
+***
+node=7
+Previous flight:
+Flight number: 324
+Callsign: CZ6922_342230e7.csv_1
+Entry number: 0
+Entry time: 81039.32065202185
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81874.82153675496 tOut=81950.61101043917
+---
+Current flight:
+Flight number: 466
+Callsign: PN6334_34221a1f.csv_1
+Entry number: 0
+Entry time: 81370.83378995852
+Speed in: 140.44333333333336
+WTCat: 1
+
+tIn=81947.60581432565 tOut=82026.72669344654
+***
+***
+node=7
+Previous flight:
+Flight number: 368
+Callsign: CZ8372_34202699.csv
+Entry number: 0
+Entry time: 43616.71905901961
+Speed in: 159.99222222222224
+WTCat: 1
+
+tIn=44884.98176625595 tOut=44955.13669171634
+---
+Current flight:
+Flight number: 480
+Callsign: SC4683_34214536.csv
+Entry number: 0
+Entry time: 43644.869830925774
+Speed in: 141.47222222222223
+WTCat: 2
+
+tIn=44947.41821613442 tOut=45025.96367067988
+***
+***
+node=7
+Previous flight:
+Flight number: 699
+Callsign: ZH9942_342156a4.csv
+Entry number: 1
+Entry time: 47576.855023213284
+Speed in: 157.93444444444447
+WTCat: 1
+
+tIn=48147.98392246746 tOut=48218.34222865638
+---
+Current flight:
+Flight number: 481
+Callsign: HO1883_342149f5.csv_1
+Entry number: 0
+Entry time: 47257.027951355856
+Speed in: 155.36222222222224
+WTCat: 2
+
+tIn=48183.943418391566 tOut=48255.466597199505
+***
+***
+node=17
+Previous flight:
+Flight number: 699
+Callsign: ZH9942_342156a4.csv
+Entry number: 1
+Entry time: 47576.855023213284
+Speed in: 157.93444444444447
+WTCat: 1
+
+tIn=48213.16043659345 tOut=48283.51874278237
+---
+Current flight:
+Flight number: 481
+Callsign: HO1883_342149f5.csv_1
+Entry number: 0
+Entry time: 47257.027951355856
+Speed in: 155.36222222222224
+WTCat: 2
+
+tIn=48250.19901387725 tOut=48321.72219268519
+***
+***
+node=18
+Previous flight:
+Flight number: 699
+Callsign: ZH9942_342156a4.csv
+Entry number: 1
+Entry time: 47576.855023213284
+Speed in: 157.93444444444447
+WTCat: 1
+
+tIn=48294.127309560274 tOut=48364.485615749196
+---
+Current flight:
+Flight number: 481
+Callsign: HO1883_342149f5.csv_1
+Entry number: 0
+Entry time: 47257.027951355856
+Speed in: 155.36222222222224
+WTCat: 2
+
+tIn=48332.50639798591 tOut=48404.02957679385
+***
+***
+node=18
+Previous flight:
+Flight number: 852
+Callsign: HU7703_34212730.csv
+Entry number: 0
+Entry time: 44346.58038278759
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=45179.133031082194 tOut=45248.81045043703
+---
+Current flight:
+Flight number: 491
+Callsign: ADD2838_1
+Entry number: 3
+Entry time: 44302.00506794649
+Speed in: 168.73777777777778
+WTCat: 2
+
+tIn=45246.139075393745 tOut=45311.992733930325
+***
+***
+node=7
+Previous flight:
+Flight number: 109
+Callsign: CZ6357_3420f7ea.csv
+Entry number: 0
+Entry time: 44132.36353401319
+Speed in: 171.31
+WTCat: 1
+
+tIn=45242.37711914156 tOut=45307.241984006425
+---
+Current flight:
+Flight number: 544
+Callsign: CZ6311_3421020f.csv
+Entry number: 0
+Entry time: 44078.42191203476
+Speed in: 155.36222222222224
+WTCat: 1
+
+tIn=45305.68546179815 tOut=45377.20864060609
+***
+***
+node=18
+Previous flight:
+Flight number: 416
+Callsign: ADD4614_1
+Entry number: 2
+Entry time: 43691.86758934234
+Speed in: 142.50111111111113
+WTCat: 1
+
+tIn=44832.14737980632 tOut=44910.12571915651
+---
+Current flight:
+Flight number: 573
+Callsign: ZH8290_34214308.csv
+Entry number: 1
+Entry time: 44309.27425423258
+Speed in: 200.63333333333335
+WTCat: 2
+
+tIn=44884.79129818708 tOut=44940.17591357169
+***
+***
+node=1
+Previous flight:
+Flight number: 29
+Callsign: MU5331_34211888.csv_1
+Entry number: 0
+Entry time: 41132.6841127999
+Speed in: 141.98666666666668
+WTCat: 1
+
+tIn=41047.9537710979 tOut=41127.811801266485
+---
+Current flight:
+Flight number: 577
+Callsign: CA2813_342101a4.csv_1
+Entry number: 0
+Entry time: 41025.69278941987
+Speed in: 179.02666666666667
+WTCat: 2
+
+tIn=41104.195482455616 tOut=41166.26444797286
+***
+***
+node=7
+Previous flight:
+Flight number: 711
+Callsign: ZH9322_3421b0f2.csv_1
+Entry number: 1
+Entry time: 59439.01335848598
+Speed in: 165.65111111111113
+WTCat: 2
+
+tIn=60326.43521895339 tOut=60393.51596429501
+---
+Current flight:
+Flight number: 579
+Callsign: ZH9140_34218dae.csv_1
+Entry number: 0
+Entry time: 59125.93076456676
+Speed in: 154.33333333333334
+WTCat: 2
+
+tIn=60391.91100318577 tOut=60463.91100318577
+***
+***
+node=18
+Previous flight:
+Flight number: 466
+Callsign: PN6334_34221a1f.csv_1
+Entry number: 0
+Entry time: 81370.83378995852
+Speed in: 140.44333333333336
+WTCat: 1
+
+tIn=82111.95020933478 tOut=82191.07108845568
+---
+Current flight:
+Flight number: 583
+Callsign: HU7713_342213ed.csv
+Entry number: 0
+Entry time: 81060.69075035423
+Speed in: 154.8477777777778
+WTCat: 1
+
+tIn=82184.31027787816 tOut=82257.53558128857
+***
+***
+node=17
+Previous flight:
+Flight number: 767
+Callsign: DZ6252_3421ebf2.csv_1
+Entry number: 0
+Entry time: 81049.56334061244
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81807.36029589066 tOut=81883.14976957487
+---
+Current flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81881.6170739892 tOut=81951.29449334404
+***
+***
+node=18
+Previous flight:
+Flight number: 767
+Callsign: DZ6252_3421ebf2.csv_1
+Entry number: 0
+Entry time: 81049.56334061244
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81894.57724326194 tOut=81970.36671694616
+---
+Current flight:
+Flight number: 584
+Callsign: 9C7193_3421fc4f.csv_1
+Entry number: 0
+Entry time: 80627.21588626079
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=81961.80039657248 tOut=82031.47781592733
+***
+***
+node=8
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=41855.05027574458 tOut=41937.179553311114
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=41924.282316584264 tOut=42004.579714353786
+***
+***
+node=1
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=41973.52532204284 tOut=42055.65459960938
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42040.114796794085 tOut=42120.41219456361
+***
+***
+node=2
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42302.8802755652 tOut=42385.009553131735
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42362.12354317468 tOut=42442.420940944205
+***
+***
+node=7
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42675.515569175375 tOut=42757.64484674191
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42723.0320786428 tOut=42803.32947641232
+***
+***
+node=17
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42751.59613889659 tOut=42833.72541646312
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42797.415683983614 tOut=42877.713081753136
+***
+***
+node=18
+Previous flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42846.108800496644 tOut=42928.23807806318
+---
+Current flight:
+Flight number: 618
+Callsign: ZH9634_34212235.csv
+Entry number: 0
+Entry time: 41589.431015469025
+Speed in: 138.38555555555556
+WTCat: 1
+
+tIn=42889.82025647735 tOut=42970.117654246875
+***
+***
+node=2
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43017.13961504046 tOut=43094.78439019414
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43065.152298225 tOut=43133.1217119888
+***
+***
+node=7
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43403.12696771686 tOut=43480.77174287054
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43471.31342634211 tOut=43539.28284010591
+***
+***
+node=17
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43475.053312433345 tOut=43552.69808758702
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43534.276986670244 tOut=43602.24640043404
+***
+***
+node=18
+Previous flight:
+Flight number: 210
+Callsign: MU2319_342141e9.csv_1
+Entry number: 0
+Entry time: 42887.58485048091
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=43564.405302083636 tOut=43642.05007723731
+---
+Current flight:
+Flight number: 621
+Callsign: CZ5330_34213b22.csv
+Entry number: 0
+Entry time: 42503.51713049529
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=43612.49477200274 tOut=43680.46418576654
+***
+***
+node=7
+Previous flight:
+Flight number: 18
+Callsign: ZH9218_34212209.csv
+Entry number: 0
+Entry time: 42886.5751038641
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=44134.80598713634 tOut=44206.80598713634
+---
+Current flight:
+Flight number: 635
+Callsign: CZ6357_3420f7ea.csv_1
+Entry number: 0
+Entry time: 43530.86953443302
+Speed in: 174.39666666666668
+WTCat: 2
+
+tIn=44183.2471669664 tOut=44246.9639811257
+***
+***
+node=17
+Previous flight:
+Flight number: 18
+Callsign: ZH9218_34212209.csv
+Entry number: 0
+Entry time: 42886.5751038641
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=44201.503286591935 tOut=44273.503286591935
+---
+Current flight:
+Flight number: 635
+Callsign: CZ6357_3420f7ea.csv_1
+Entry number: 0
+Entry time: 43530.86953443302
+Speed in: 174.39666666666668
+WTCat: 2
+
+tIn=44242.27132577666 tOut=44305.98813993596
+***
+***
+node=18
+Previous flight:
+Flight number: 18
+Callsign: ZH9218_34212209.csv
+Entry number: 0
+Entry time: 42886.5751038641
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=44284.35938659465 tOut=44356.35938659465
+---
+Current flight:
+Flight number: 635
+Callsign: CZ6357_3420f7ea.csv_1
+Entry number: 0
+Entry time: 43530.86953443302
+Speed in: 174.39666666666668
+WTCat: 2
+
+tIn=44315.59530807995 tOut=44379.31212223925
+***
+***
+node=1
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=42905.41295691095 tOut=42985.117753958926
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=42975.76392082683 tOut=43045.217297032614
+***
+***
+node=2
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43225.04525497877 tOut=43304.75005202675
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43254.28595547757 tOut=43323.739331683355
+***
+***
+node=7
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43588.97539192531 tOut=43668.68018897329
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43650.7664945607 tOut=43720.21987076649
+***
+***
+node=17
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43662.810040769145 tOut=43742.51483781712
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43715.10472554681 tOut=43784.55810175259
+***
+***
+node=18
+Previous flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43754.53266069835 tOut=43834.23745774633
+---
+Current flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43795.030223941714 tOut=43864.4836001475
+***
+***
+node=18
+Previous flight:
+Flight number: 779
+Callsign: KN5851_3421309e.csv_1
+Entry number: 0
+Entry time: 46194.128048986706
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=47226.29416620468 tOut=47302.08363988889
+---
+Current flight:
+Flight number: 672
+Callsign: CZ3670_3421634a.csv
+Entry number: 2
+Entry time: 45544.04074180809
+Speed in: 193.43111111111114
+WTCat: 1
+
+tIn=47294.699493561835 tOut=47361.49810810909
+***
+***
+node=8
+Previous flight:
+Flight number: 319
+Callsign: HU7701_34210bcf.csv
+Entry number: 0
+Entry time: 41470.92938259873
+Speed in: 152.27555555555557
+WTCat: 2
+
+tIn=41162.113971442894 tOut=41239.74479375457
+---
+Current flight:
+Flight number: 682
+Callsign: CA1375_34210d1b.csv
+Entry number: 0
+Entry time: 41467.009274134325
+Speed in: 132.7266666666667
+WTCat: 2
+
+tIn=41235.14880901804 tOut=41318.86973925061
+***
+***
+node=7
+Previous flight:
+Flight number: 814
+Callsign: DZ6246_342136e9.csv_1
+Entry number: 0
+Entry time: 42444.14279091196
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43160.96017884555 tOut=43230.863091466905
+---
+Current flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43199.862238550384 tOut=43271.862238550384
+***
+***
+node=17
+Previous flight:
+Flight number: 814
+Callsign: DZ6246_342136e9.csv_1
+Entry number: 0
+Entry time: 42444.14279091196
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43225.71483851117 tOut=43295.61775113253
+---
+Current flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43266.55953800598 tOut=43338.55953800598
+***
+***
+node=18
+Previous flight:
+Flight number: 814
+Callsign: DZ6246_342136e9.csv_1
+Entry number: 0
+Entry time: 42444.14279091196
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43306.15765404779 tOut=43376.06056666915
+---
+Current flight:
+Flight number: 688
+Callsign: ADD9786_1
+Entry number: 0
+Entry time: 42609.36801366262
+Speed in: 154.33333333333334
+WTCat: 1
+
+tIn=43349.4156380087 tOut=43421.4156380087
+***
+***
+node=7
+Previous flight:
+Flight number: 913
+Callsign: ADD9015
+Entry number: 3
+Entry time: 42349.265741938194
+Speed in: 203.72000000000003
+WTCat: 2
+
+tIn=43032.48792095622 tOut=43095.18384572111
+---
+Current flight:
+Flight number: 690
+Callsign: DZ6204_34213d3a.csv
+Entry number: 0
+Entry time: 42414.22763012566
+Speed in: 157.93444444444447
+WTCat: 2
+
+tIn=43089.56205725937 tOut=43159.92036344829
+***
+***
+node=7
+Previous flight:
+Flight number: 299
+Callsign: ZH9452_3421473f.csv
+Entry number: 1
+Entry time: 43305.02326198901
+Speed in: 163.59333333333333
+WTCat: 2
+
+tIn=43883.71376791148 tOut=43951.638296213365
+---
+Current flight:
+Flight number: 715
+Callsign: DZ6204_34213d3a.csv_1
+Entry number: 0
+Entry time: 42771.060880189325
+Speed in: 153.8188888888889
+WTCat: 1
+
+tIn=43947.75552745482 tOut=44019.99633013041
+***
+***
+node=2
+Previous flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42133.566266897236 tOut=42216.32488758689
+---
+Current flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42175.08486622513 tOut=42243.3917411856
+***
+***
+node=17
+Previous flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42612.573863233854 tOut=42695.33248392351
+---
+Current flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42682.30569968481 tOut=42750.61257464528
+***
+***
+node=18
+Previous flight:
+Flight number: 155
+Callsign: CA4325_34211f45.csv_1
+Entry number: 0
+Entry time: 41763.68392991324
+Speed in: 134.27
+WTCat: 1
+
+tIn=42707.8107597887 tOut=42790.56938047835
+---
+Current flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42760.911828332006 tOut=42829.21870329248
+***
+***
+node=18
+Previous flight:
+Flight number: 644
+Callsign: ZH9422_34214f8f.csv_1
+Entry number: 1
+Entry time: 45092.87175905273
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=46067.52863395245 tOut=46145.68755709617
+---
+Current flight:
+Flight number: 757
+Callsign: ZH8210_342153f4.csv_1
+Entry number: 1
+Entry time: 45474.0761639591
+Speed in: 185.71444444444447
+WTCat: 2
+
+tIn=46138.46513444461 tOut=46198.29892945846
+***
+***
+node=7
+Previous flight:
+Flight number: 256
+Callsign: FD596_34222da1.csv
+Entry number: 2
+Entry time: 81147.3607790518
+Speed in: 196.00333333333336
+WTCat: 2
+
+tIn=81694.62597553349 tOut=81753.0722779931
+---
+Current flight:
+Flight number: 767
+Callsign: DZ6252_3421ebf2.csv_1
+Entry number: 0
+Entry time: 81049.56334061244
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=81737.1526122532 tOut=81812.94208593741
+***
+***
+node=7
+Previous flight:
+Flight number: 697
+Callsign: ZH8014_34215d55.csv
+Entry number: 1
+Entry time: 45856.49374696489
+Speed in: 198.06111111111113
+WTCat: 1
+
+tIn=47010.75472917365 tOut=47075.241966074675
+---
+Current flight:
+Flight number: 779
+Callsign: KN5851_3421309e.csv_1
+Entry number: 0
+Entry time: 46194.128048986706
+Speed in: 146.61666666666667
+WTCat: 2
+
+tIn=47068.86953519593 tOut=47144.659008880146
+***
+***
+node=7
+Previous flight:
+Flight number: 338
+Callsign: CA1893_3420e38d.csv
+Entry number: 0
+Entry time: 34604.83109238123
+Speed in: 161.53555555555556
+WTCat: 1
+
+tIn=35922.14869647476 tOut=35990.938505391954
+---
+Current flight:
+Flight number: 795
+Callsign: AK126_3420b8f8.csv_1
+Entry number: 3
+Entry time: 34912.36959821298
+Speed in: 178.51222222222225
+WTCat: 2
+
+tIn=35988.308670261096 tOut=36050.55650887782
+***
+***
+node=17
+Previous flight:
+Flight number: 338
+Callsign: CA1893_3420e38d.csv
+Entry number: 0
+Entry time: 34604.83109238123
+Speed in: 161.53555555555556
+WTCat: 1
+
+tIn=35985.872230986475 tOut=36054.66203990367
+---
+Current flight:
+Flight number: 795
+Callsign: AK126_3420b8f8.csv_1
+Entry number: 3
+Entry time: 34912.36959821298
+Speed in: 178.51222222222225
+WTCat: 2
+
+tIn=36045.97204154835 tOut=36108.219880165074
+***
+***
+node=18
+Previous flight:
+Flight number: 338
+Callsign: CA1893_3420e38d.csv
+Entry number: 0
+Entry time: 34604.83109238123
+Speed in: 161.53555555555556
+WTCat: 1
+
+tIn=36065.034109969965 tOut=36133.82391888716
+---
+Current flight:
+Flight number: 795
+Callsign: AK126_3420b8f8.csv_1
+Entry number: 3
+Entry time: 34912.36959821298
+Speed in: 178.51222222222225
+WTCat: 2
+
+tIn=36117.60555740085 tOut=36179.85339601757
+***
+***
+node=7
+Previous flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43650.7664945607 tOut=43720.21987076649
+---
+Current flight:
+Flight number: 811
+Callsign: DZ6246_342136e9.csv
+Entry number: 0
+Entry time: 42880.67432525707
+Speed in: 162.05
+WTCat: 2
+
+tIn=43706.48884291581 tOut=43775.060271487244
+***
+***
+node=17
+Previous flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43715.10472554681 tOut=43784.55810175259
+---
+Current flight:
+Flight number: 811
+Callsign: DZ6246_342136e9.csv
+Entry number: 0
+Entry time: 42880.67432525707
+Speed in: 162.05
+WTCat: 2
+
+tIn=43770.01008049257 tOut=43838.581509064
+***
+***
+node=18
+Previous flight:
+Flight number: 646
+Callsign: MU5391_34211c63.csv_1
+Entry number: 0
+Entry time: 43190.3011003238
+Speed in: 159.99222222222224
+WTCat: 2
+
+tIn=43795.030223941714 tOut=43864.4836001475
+---
+Current flight:
+Flight number: 811
+Callsign: DZ6246_342136e9.csv
+Entry number: 0
+Entry time: 42880.67432525707
+Speed in: 162.05
+WTCat: 2
+
+tIn=43848.92065192373 tOut=43917.49208049516
+***
+***
+node=18
+Previous flight:
+Flight number: 480
+Callsign: SC4683_34214536.csv
+Entry number: 0
+Entry time: 43644.869830925774
+Speed in: 141.47222222222223
+WTCat: 2
+
+tIn=45110.567379179854 tOut=45189.11283372531
+---
+Current flight:
+Flight number: 852
+Callsign: HU7703_34212730.csv
+Entry number: 0
+Entry time: 44346.58038278759
+Speed in: 159.4777777777778
+WTCat: 2
+
+tIn=45179.133031082194 tOut=45248.81045043703
+***
+***
+node=8
+Previous flight:
+Flight number: 348
+Callsign: HU7752_3421294e.csv_1
+Entry number: 0
+Entry time: 42184.68063000564
+Speed in: 150.2177777777778
+WTCat: 1
+
+tIn=42011.939506158844 tOut=42087.42175385244
+---
+Current flight:
+Flight number: 867
+Callsign: HU7276_34212b12.csv
+Entry number: 0
+Entry time: 42269.42597021806
+Speed in: 145.5877777777778
+WTCat: 2
+
+tIn=42086.26342604845 tOut=42162.588514387666
+***
+***
+node=8
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=42765.64160103394 tOut=42835.544513655295
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=42790.4353289536 tOut=42870.14012600158
+***
+***
+node=1
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=42866.479585423716 tOut=42936.38249804507
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=42905.41295691095 tOut=42985.117753958926
+***
+***
+node=7
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43539.30328264228 tOut=43609.206195263636
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43588.97539192531 tOut=43668.68018897329
+***
+***
+node=17
+Previous flight:
+Flight number: 564
+Callsign: ADD9786
+Entry number: 0
+Entry time: 43015.59305734462
+Speed in: 158.96333333333334
+WTCat: 1
+
+tIn=43604.0579423079 tOut=43673.96085492926
+---
+Current flight:
+Flight number: 873
+Callsign: SC4683_34214536.csv_1
+Entry number: 0
+Entry time: 43030.28772747759
+Speed in: 139.41444444444446
+WTCat: 2
+
+tIn=43662.810040769145 tOut=43742.51483781712
+***
+***
+node=8
+Previous flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=41802.6249017927 tOut=41870.93177675317
+---
+Current flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=41855.05027574458 tOut=41937.179553311114
+***
+***
+node=7
+Previous flight:
+Flight number: 744
+Callsign: 9C8614_342130f0.csv
+Entry number: 0
+Entry time: 41901.77833927293
+Speed in: 167.7088888888889
+WTCat: 2
+
+tIn=42619.029531711 tOut=42687.33640667147
+---
+Current flight:
+Flight number: 890
+Callsign: CA4325_34211f45.csv
+Entry number: 0
+Entry time: 41951.11491452785
+Speed in: 135.2988888888889
+WTCat: 1
+
+tIn=42675.515569175375 tOut=42757.64484674191
+***
+***
+node=6
+Previous flight:
+Flight number: 708
+Callsign: ZH9312_34212578.csv_1
+Entry number: 2
+Entry time: 36561.38045450444
+Speed in: 196.00333333333336
+WTCat: 1
+
+tIn=37052.04404464891 tOut=37108.73695803473
+---
+Current flight:
+Flight number: 893
+Callsign: ADD8743
+Entry number: 3
+Entry time: 36764.31413761459
+Speed in: 181.5988888888889
+WTCat: 1
+
+tIn=37100.99447628695 tOut=37162.184277986664
+***
+***
+node=17
+Previous flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60636.07746765469 tOut=60720.78335000763
+---
+Current flight:
+Flight number: 899
+Callsign: MU6159_342194e3.csv
+Entry number: 1
+Entry time: 59601.6538366451
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=60707.22389036807 tOut=60774.51360999423
+***
+***
+node=18
+Previous flight:
+Flight number: 322
+Callsign: ZH9114_34218193.csv
+Entry number: 0
+Entry time: 59542.91612193486
+Speed in: 131.18333333333334
+WTCat: 1
+
+tIn=60733.555232363775 tOut=60818.26111471671
+---
+Current flight:
+Flight number: 899
+Callsign: MU6159_342194e3.csv
+Entry number: 1
+Entry time: 59601.6538366451
+Speed in: 165.13666666666668
+WTCat: 1
+
+tIn=60784.65949784724 tOut=60851.949217473404
+***
+***
+node=18
+Previous flight:
+Flight number: 358
+Callsign: ZH9610_34210290.csv_1
+Entry number: 0
+Entry time: 44826.24779843881
+Speed in: 146.61666666666667
+WTCat: 1
+
+tIn=46277.59952278014 tOut=46353.38899646435
+---
+Current flight:
+Flight number: 905
+Callsign: CA4003_342150ad.csv
+Entry number: 1
+Entry time: 45432.61749646174
+Speed in: 182.6277777777778
+WTCat: 1
+
+tIn=46338.651402604926 tOut=46399.496473027466
+***
+***
+node=18
+Previous flight:
+Flight number: 414
+Callsign: CZ3156_342119ea.csv
+Entry number: 0
+Entry time: 42270.038535734515
+Speed in: 158.4488888888889
+WTCat: 1
+
+tIn=43100.9586027606 tOut=43171.088472890464
+---
+Current flight:
+Flight number: 913
+Callsign: ADD9015
+Entry number: 3
+Entry time: 42349.265741938194
+Speed in: 203.72000000000003
+WTCat: 2
+
+tIn=43162.7155415225 tOut=43225.41146628739
+***
+***
+node=7
+Previous flight:
+Flight number: 43
+Callsign: ZH8970_3421a1d3.csv_1
+Entry number: 0
+Entry time: 59143.94147239365
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=59947.75666665067 tOut=60024.6249940528
+---
+Current flight:
+Flight number: 919
+Callsign: ADD8906
+Entry number: 1
+Entry time: 59452.22897019253
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=60009.30517713699 tOut=60085.90092181783
+***
+***
+node=17
+Previous flight:
+Flight number: 43
+Callsign: ZH8970_3421a1d3.csv_1
+Entry number: 0
+Entry time: 59143.94147239365
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=60018.96374791999 tOut=60095.83207532212
+---
+Current flight:
+Flight number: 919
+Callsign: ADD8906
+Entry number: 1
+Entry time: 59452.22897019253
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=60080.259751025915 tOut=60156.85549570676
+***
+***
+node=18
+Previous flight:
+Flight number: 43
+Callsign: ZH8970_3421a1d3.csv_1
+Entry number: 0
+Entry time: 59143.94147239365
+Speed in: 144.5588888888889
+WTCat: 1
+
+tIn=60107.42221767378 tOut=60184.29054507591
+---
+Current flight:
+Flight number: 919
+Callsign: ADD8906
+Entry number: 1
+Entry time: 59452.22897019253
+Speed in: 145.07333333333335
+WTCat: 1
+
+tIn=60168.40453826285 tOut=60245.00028294369
+***
+***
+node=7
+Previous flight:
+Flight number: 144
+Callsign: ZH9636_3421e9b1.csv
+Entry number: 0
+Entry time: 83336.81876239832
+Speed in: 149.70333333333335
+WTCat: 1
+
+tIn=84012.661290042 tOut=84086.88809416573
+---
+Current flight:
+Flight number: 924
+Callsign: ADD5293
+Entry number: 2
+Entry time: 82716.83113909607
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=84071.13033025096 tOut=84143.61355172748
+***
+***
+node=17
+Previous flight:
+Flight number: 144
+Callsign: ZH9636_3421e9b1.csv
+Entry number: 0
+Entry time: 83336.81876239832
+Speed in: 149.70333333333335
+WTCat: 1
+
+tIn=84081.42139257354 tOut=84155.64819669726
+---
+Current flight:
+Flight number: 924
+Callsign: ADD5293
+Entry number: 2
+Entry time: 82716.83113909607
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=84138.27526258881 tOut=84210.75848406533
+***
+***
+node=18
+Previous flight:
+Flight number: 144
+Callsign: ZH9636_3421e9b1.csv
+Entry number: 0
+Entry time: 83336.81876239832
+Speed in: 149.70333333333335
+WTCat: 1
+
+tIn=84166.84005237016 tOut=84241.06685649388
+---
+Current flight:
+Flight number: 924
+Callsign: ADD5293
+Entry number: 2
+Entry time: 82716.83113909607
+Speed in: 153.30444444444444
+WTCat: 1
+
+tIn=84221.6874437996 tOut=84294.17066527612
+***
+***
+node=7
+Previous flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48783.07566545687 tOut=48849.74233212354
+---
+Current flight:
+Flight number: 938
+Callsign: 9C8881_3421541d.csv_1
+Entry number: 0
+Entry time: 48269.7499165926
+Speed in: 157.42000000000002
+WTCat: 2
+
+tIn=48831.653102872835 tOut=48902.24133816695
+***
+***
+node=17
+Previous flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48844.83242421205 tOut=48911.49909087872
+---
+Current flight:
+Flight number: 938
+Callsign: 9C8881_3421541d.csv_1
+Entry number: 0
+Entry time: 48269.7499165926
+Speed in: 157.42000000000002
+WTCat: 2
+
+tIn=48897.04261214303 tOut=48967.63084743714
+***
+***
+node=18
+Previous flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48921.551035325676 tOut=48988.21770199235
+---
+Current flight:
+Flight number: 938
+Callsign: 9C8881_3421541d.csv_1
+Entry number: 0
+Entry time: 48269.7499165926
+Speed in: 157.42000000000002
+WTCat: 2
+
+tIn=48978.27408273393 tOut=49048.86231802804
+***
+***
+node=8
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=41541.30829508863 tOut=41621.905310014
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=41604.703361308064 tOut=41682.122716146776
+***
+***
+node=1
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=41657.5729860455 tOut=41738.17000097087
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=41716.384139718255 tOut=41793.80349455697
+***
+***
+node=2
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=41980.78325759916 tOut=42061.38027252453
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42026.851353970516 tOut=42104.27070880923
+***
+***
+node=7
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42343.05648339325 tOut=42423.65349831862
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42400.67619547261 tOut=42478.09555031132
+***
+***
+node=17
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42417.71763950026 tOut=42498.31465442563
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42472.393721768945 tOut=42549.81307660766
+***
+***
+node=18
+Previous flight:
+Flight number: 398
+Callsign: NS3267_34210ec4.csv_1
+Entry number: 0
+Entry time: 41881.606802551316
+Speed in: 137.87111111111113
+WTCat: 1
+
+tIn=42510.46700517494 tOut=42591.06402010031
+---
+Current flight:
+Flight number: 951
+Callsign: 3U3285_34211be9.csv_1
+Entry number: 0
+Entry time: 41893.41303872742
+Speed in: 143.53
+WTCat: 2
+
+tIn=42561.486302417026 tOut=42638.90565725574
+***
+***
+node=18
+Previous flight:
+Flight number: 501
+Callsign: ZH8300_34216109.csv_1
+Entry number: 1
+Entry time: 47934.03247749835
+Speed in: 144.04444444444445
+WTCat: 1
+
+tIn=48856.05164376047 tOut=48933.19450090332
+---
+Current flight:
+Flight number: 959
+Callsign: ADD1865
+Entry number: 3
+Entry time: 47688.862595652245
+Speed in: 166.68
+WTCat: 2
+
+tIn=48921.551035325676 tOut=48988.21770199235
+***
+***
+node=7
+Previous flight:
+Flight number: 422
+Callsign: ZH9426_3421a058.csv_1
+Entry number: 1
+Entry time: 59554.77885191178
+Speed in: 174.91111111111113
+WTCat: 1
+
+tIn=60717.30695485024 tOut=60782.13288522238
+---
+Current flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60750.68241084523 tOut=60836.05790491638
+***
+***
+node=17
+Previous flight:
+Flight number: 422
+Callsign: ZH9426_3421a058.csv_1
+Entry number: 1
+Entry time: 59554.77885191178
+Speed in: 174.91111111111113
+WTCat: 1
+
+tIn=60777.358544996336 tOut=60842.18447536848
+---
+Current flight:
+Flight number: 964
+Callsign: ZH9114_34218193.csv_1
+Entry number: 0
+Entry time: 59606.798095102706
+Speed in: 130.15444444444447
+WTCat: 1
+
+tIn=60829.770117709566 tOut=60915.14561178072
+***
+***
+node=7
+Previous flight:
+Flight number: 415
+Callsign: CZ3192_34213395.csv_1
+Entry number: 0
+Entry time: 45596.49596281202
+Speed in: 156.39111111111112
+WTCat: 1
+
+tIn=46395.77892758567 tOut=46466.83155916462
+---
+Current flight:
+Flight number: 970
+Callsign: ZH9610_34210290.csv
+Entry number: 0
+Entry time: 45175.85269469003
+Speed in: 146.10222222222222
+WTCat: 1
+
+tIn=46463.4763495891 tOut=46539.53268761727
+***

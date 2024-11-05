@@ -283,7 +283,17 @@ public class Flight {
 	uneDecision.perfoDecision.evalRoute= evalRoute;
 	
 	//attention  a changer*************************************5
-	uneDecision.perfoDecision.objective=50*uneDecision.perfoDecision.evalNodes+ 50*uneDecision.perfoDecision.evalLinks+ 1*(uneDecision.perfoDecision.evalDelay + uneDecision.perfoDecision.evalSpeed+ uneDecision.perfoDecision.evalRoute);
+	double iterProgress = RECUIT.GlobalSettings.getIterProgress();
+	double weightForConflicts = 1000;
+	double weightForDelay = 2;
+	double exponentForConflicts = 0.01;
+	if (RECUIT.GlobalSettings.getIsCooling()) {
+		weightForConflicts = 1000;
+		// weightForDelay = 1 * (1 + 9 * (1 - iterProgress)); // 1 to 10
+		// exponentForConflicts increases from 0.01 to 0.1 exponentially
+		// exponentForConflicts = 0.005 + 0.005 * (Math.exp((1 - iterProgress)) - 1) / (Math.E - 1);
+	}
+	uneDecision.perfoDecision.objective = weightForConflicts * (Math.exp(exponentForConflicts * uneDecision.perfoDecision.evalNodes)+ Math.exp(exponentForConflicts * uneDecision.perfoDecision.evalLinks))+ weightForDelay*(uneDecision.perfoDecision.evalDelay + uneDecision.perfoDecision.evalSpeed+ uneDecision.perfoDecision.evalRoute);
     }
 
 

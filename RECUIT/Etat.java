@@ -184,7 +184,10 @@ public class Etat {
     }
 
     public void sauvegarderEtat(String nom) {
-	String fileOut = "RESULT/" + nom + "_DECISION.res";
+
+	String dateTimeFolder = "RESULT/" + GlobalSettings.TIMESTAMP_STRING;
+	new File(dateTimeFolder).mkdirs();
+	String fileOut = dateTimeFolder + "/" + nom + "_DECISION.res";
 
 	try {
 	    /* creation et ouverture des fichiers de sortie */

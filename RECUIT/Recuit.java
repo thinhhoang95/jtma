@@ -13,6 +13,7 @@ public class Recuit {
     private static int nbTransitions = 1000;
     private static double alpha = 0.999;
 	private static double heatUntil = 0.9999;
+	private static double tCutOffCoeff = 0.0005;
     //private static final int nbTransitions = 500;
     //private static final double alpha = 0.99;
     private static final boolean minimisation = true;
@@ -26,7 +27,7 @@ public class Recuit {
     
     private void openFiles(){
 	String nomRes=Constantes.NOM_RESULT;
-	String nomFileFeatures= "RESULT/"+nomRes+"_FEATURES.res";
+	String nomFileFeatures= "RESULT/"+GlobalSettings.TIMESTAMP_STRING+"/"+nomRes+"_FEATURES.res";
 	try {
 	    outFeatures = new File(nomFileFeatures);
 	    fsFeatures = new FileOutputStream(outFeatures);
@@ -123,6 +124,12 @@ public class Recuit {
 	double tirage;
 	double ratioTemperature;
 	x.calculMaxCritere();
+
+	// Set the cooling flag
+	GlobalSettings.setIsCooling(true);
+
+	double tMin = tCutOffCoeff * Tinit;
+
 	do {
 	    ratioTemperature=T/Tinit;
 	    for (int i = 0; i < nbTransitions; i++) {
@@ -139,17 +146,18 @@ public class Recuit {
 		index=(index+1)%(x.dimEtat);
 		if (index==0) {
 		    x.calculMaxCritere();
-		    System.out.println("T= " + T + " Worse Decision Objective " + x.maxCout);
+		    System.out.println("T= " + String.format("%.2f", T) + " / " + String.format("%.2f", tMin) + " Iter Progress: " + String.format("%.2f", GlobalSettings.getIterProgress()) + "; Worse Decision Objective " + x.maxCout);
 		    System.out.println(" "+x.featuresEtat.afficherFeaturesEtat());
-		    pwFeatures.print(T+" "+x.saveStateSpaceFeatures());
+		    // pwFeatures.print(T+" "+x.saveStateSpaceFeatures());
 		    if (x.maxCout==0) flag=true;
 		}
 	    }
 	     T = T * alpha;
-	//} while ((T > 0.0005 * Tinit)&&(!flag));
-	} while ((T > 1.0)&&(!flag));
+	     GlobalSettings.setIterProgress((T - tMin) / (Tinit - tMin));
+	} while ((T > tMin)&&(!flag));
+	// } while ((T > 1.0)&&(!flag));
 	x.calculMaxCritere();
-	System.out.println("T= " + T + " Worse Decision Objective " + x.maxCout);
+	System.out.println("T= " + String.format("%.2f", T) + " / " + String.format("%.2f", tMin) + "; Worse Decision Objective " + x.maxCout);
 	System.out.println(" "+x.featuresEtat.afficherFeaturesEtat());
 	pwFeatures.print(T+" "+x.saveStateSpaceFeatures());
 
@@ -228,6 +236,7 @@ public class Recuit {
 		nbTransitions = hyperParameters.getNbTransitions();
 		alpha = hyperParameters.getAlpha();
 		heatUntil = hyperParameters.getHeatUntil();
+		tCutOffCoeff = hyperParameters.getTCutOffCoeff();
 	}
 
 	Constantes.NOM_FLIGHTSET=flightFile;

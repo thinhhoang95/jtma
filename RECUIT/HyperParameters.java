@@ -4,6 +4,7 @@ public class HyperParameters {
     private int nbTransitions;
     private double alpha;
     private double heatUntil;
+    private double tCutOffCoeff;
 
     public int getNbTransitions() {
         return nbTransitions;
@@ -27,5 +28,13 @@ public class HyperParameters {
 
     public void setHeatUntil(double heatUntil) {
         this.heatUntil = heatUntil;
+    }
+
+    public double getTCutOffCoeff() {
+        return tCutOffCoeff;
+    }
+
+    public void setTCutOffCoeff(double tCutOffCoeff) {
+        this.tCutOffCoeff = tCutOffCoeff;
     }
 }

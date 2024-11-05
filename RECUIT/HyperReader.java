@@ -12,14 +12,17 @@ public class HyperReader {
             String nbTransitions = properties.getProperty("nbTransitions");
             String alpha = properties.getProperty("alpha");
             String heatUntil = properties.getProperty("heatUntil");
+            String tCutOffCoeff = properties.getProperty("tCutOffCoeff");
             System.out.println("Reading hyperparameters from: " + filename);
             System.out.println("nbTransitions: " + nbTransitions);
             System.out.println("alpha: " + alpha);
             System.out.println("heatUntil: " + heatUntil);
+            System.out.println("tCutOffCoeff: " + tCutOffCoeff);
             HyperParameters hyperParameters = new HyperParameters();
             hyperParameters.setNbTransitions(Integer.parseInt(nbTransitions));
             hyperParameters.setAlpha(Double.parseDouble(alpha));
             hyperParameters.setHeatUntil(Double.parseDouble(heatUntil));
+            hyperParameters.setTCutOffCoeff(Double.parseDouble(tCutOffCoeff));
             return hyperParameters;
         } catch (IOException e) {
             e.printStackTrace();
