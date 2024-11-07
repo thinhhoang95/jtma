@@ -204,7 +204,9 @@ public class Etat {
     }
 
     public void sauvegarderVolsInfo(String nom) {
-	String fileOut = "RESULT/" + nom + "_FLIGHT.res";
+		String dateTimeFolder = "RESULT/" + GlobalSettings.TIMESTAMP_STRING;
+		new File(dateTimeFolder).mkdirs();
+		String fileOut = dateTimeFolder + "/" + nom + "_FLIGHT.res";
 
 	try {
 	    /* creation et ouverture des fichiers de sortie */
@@ -222,7 +224,9 @@ public class Etat {
 
 
    public void sauvegarderRwyInfo(String nom) {
-	String fileOut = "RESULT/" + nom + "_RWY.res";
+		String dateTimeFolder = "RESULT/" + GlobalSettings.TIMESTAMP_STRING;
+		new File(dateTimeFolder).mkdirs();
+		String fileOut = dateTimeFolder + "/" + nom + "_RWY.res";
 	double tMean;
 	try {
 	    /* creation et ouverture des fichiers de sortie */

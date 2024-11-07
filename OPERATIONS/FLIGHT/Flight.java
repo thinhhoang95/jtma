@@ -293,7 +293,12 @@ public class Flight {
 		// exponentForConflicts increases from 0.01 to 0.1 exponentially
 		// exponentForConflicts = 0.005 + 0.005 * (Math.exp((1 - iterProgress)) - 1) / (Math.E - 1);
 	}
-	uneDecision.perfoDecision.objective = weightForConflicts * (Math.exp(exponentForConflicts * uneDecision.perfoDecision.evalNodes)+ Math.exp(exponentForConflicts * uneDecision.perfoDecision.evalLinks))+ weightForDelay*(uneDecision.perfoDecision.evalDelay + uneDecision.perfoDecision.evalSpeed+ uneDecision.perfoDecision.evalRoute);
+		// Option 1: Add a smoothing term using square root instead of exponential
+		// uneDecision.perfoDecision.objective = weightForConflicts * Math.sqrt(1 + evalNodes)
+		// 	+ weightForDelay * (uneDecision.perfoDecision.evalDelay + uneDecision.perfoDecision.evalSpeed + uneDecision.perfoDecision.evalRoute);
+		// Option 2: Use logarithmic scaling to reduce steep gradients
+		uneDecision.perfoDecision.objective = weightForConflicts * Math.log(1 + uneDecision.perfoDecision.evalNodes)
+			+ weightForDelay * (uneDecision.perfoDecision.evalDelay + uneDecision.perfoDecision.evalSpeed + uneDecision.perfoDecision.evalRoute);
     }
 
 

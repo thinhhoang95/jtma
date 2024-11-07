@@ -56,3 +56,7 @@ Thumbs.db
 
 # Animation files
 *.mp4
+
+# Result folder
+RESULT/*
+LOGS/*

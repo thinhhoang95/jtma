@@ -189,10 +189,11 @@ public class Decision{
 	double tirage=generateur.nextDouble();
       
 	if (Constantes.ROUTE_CHANGE) {
-	    if (tirage<0.5) routeChange();
+	    if (tirage<0.33) routeChange();
 	}
 	if(Constantes.SLOT_RTA_CHANGE) {
-	    if ((tirage>0.3)&&(tirage<0.7)) slotRTAChange();
+	    // if ((tirage>0.3)&&(tirage<0.7)) slotRTAChange();
+		slotRTAChange(); // always change the slotRTA
 	}
 	if(Constantes.SPEED_CHANGE) {
 	    if ((tirage>0.6)&&(tirage<0.8)) speedChange();

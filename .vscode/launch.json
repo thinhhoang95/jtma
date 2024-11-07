@@ -26,11 +26,27 @@
     },
     {
         "type": "java",
+        "name": "PMS 150% (Haiku)",
+        "request": "launch",
+        "mainClass": "RECUIT.Recuit",
+        "preLaunchTask": "compile-all",
+        "args": ["ZGSZ_PMS_halfday", "ZGSZ_PMS", "0,1,2,3", "HYPERPARAMS/PMS_FULL_1.properties"]
+    },
+    {
+        "type": "java",
         "name": "STD 150% (Sonnet)",
         "request": "launch",
         "mainClass": "RECUIT.Recuit",
         "preLaunchTask": "compile-all",
         "args": ["ZGSZ_STD_eliminate0_150%_reduced", "ZGSZ_STD", "XXX", "HYPERPARAMS/PMS_FULL_1.properties"]
+    },
+    {
+        "type": "java",
+        "name": "STD 150% (Haiku)",
+        "request": "launch",
+        "mainClass": "RECUIT.Recuit",
+        "preLaunchTask": "compile-all",
+        "args": ["ZGSZ_STD_halfday", "ZGSZ_STD", "XXX", "HYPERPARAMS/PMS_FULL_1.properties"]
     }
     ]
 }

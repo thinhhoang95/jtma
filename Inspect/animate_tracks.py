@@ -87,9 +87,9 @@ def get_filename_without_extension(filepath):
 if __name__ == "__main__":
 
     # link_events_file_name = 'PMSeliminate0150reducedfilteredSAREX_link_travel_time.csv'
-    link_events_file_name = 'STDeliminate0150reducedfilteredSAREX_link_travel_time.csv'
-    # node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_PMS.nodes'
-    node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_STD.nodes'
+    link_events_file_name = 'LOGS/2024-11-07_00-51-23/ZGSZPMShalfday_link_travel_time.csv'
+    node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_PMS.nodes'
+    # node_coord_file_name = 'DATA/SHEN_ZHEN/ZGSZ_STD.nodes'
     file_name_without_extension = get_filename_without_extension(link_events_file_name)
     animation_file_name = file_name_without_extension + '.mp4'
 

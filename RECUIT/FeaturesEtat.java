@@ -23,15 +23,21 @@ public class FeaturesEtat{
     
     public String afficherFeaturesEtat() {
 	String buffer = "";
-	buffer = buffer + " Objective= " + objective + " ";
-	buffer = buffer + "Num Conflicts= " + numConflicts + " ";
-	buffer = buffer + "EvalNodes= " + evalNodes + " ";
-	buffer = buffer + "EvalLinks= " + evalLinks + " ";
-	buffer = buffer + "EvalDelay= " + evalDelay + " ";
-	buffer = buffer + "EvalSpeed= " + evalSpeed + " ";
-	buffer = buffer + "EvalRoute= " + evalRoute + " \n";
+	buffer = buffer + " Objective = " + String.format("%.2f", objective) + " ";
+	buffer = buffer + "Num Conflicts = " + (int)numConflicts + " ";
+	buffer = buffer + "EvalNodes = " + String.format("%.2f", evalNodes) + " ";
+	buffer = buffer + "EvalLinks = " + String.format("%.2f", evalLinks) + " ";
+	buffer = buffer + "EvalDelay = " + String.format("%.2f", evalDelay) + " ";
+	buffer = buffer + "EvalSpeed = " + String.format("%.2f", evalSpeed) + " ";
+	buffer = buffer + "EvalRoute = " + String.format("%.2f", evalRoute) + " ";
 	return buffer;
     }
+
+	public String afficherFeaturesEtatConflitsSeuls() {
+		String buffer = "";
+		buffer = buffer + "CF: " + (int)numConflicts + " ";
+		return buffer;
+	}
 
     public String saveFeaturesEtat() {
 	String buffer = "";

@@ -27,8 +27,8 @@ public class Constantes {
     public static int DELTA_SPEED_PLUS=0; //en pourcent de la vitesse nominale
     public static int DELTA_SPEED_MOINS=20;
 
-    public static int DELTA_T_RTA_PLUS=120;//in TIME SLOTS
-    public static int DELTA_T_RTA_MOINS=60;
+    public static int DELTA_T_RTA_PLUS=360;//in TIME SLOTS
+    public static int DELTA_T_RTA_MOINS=360;
   
     public static double TIME_SLOT=5.0;// in seconds
     /**********************************************************************************/    
